@@ -3030,6 +3030,21 @@
       "name": "music/ffxiv/BGM_AOZ_Battle02.scd",
       "sha1": "a765432927f93fe6e6a36e5bdbc5f711bc1f3c62"
     },
+    "632": {
+      "index": 632,
+      "name": "music/ex2/BGM_EX2_EU_Dungeon.scd",
+      "sha1": "3cd45b7d094ac5813a30b7c791d460b215aa9566"
+    },
+    "633": {
+      "index": 633,
+      "name": "music/ex2/BGM_EX2_EU_Boss.scd",
+      "sha1": "e40e464813f02c3c3d7fd187e7beb6bb789e0df6"
+    },
+    "634": {
+      "index": 634,
+      "name": "music/ex2/BGM_EX2_EU_LB.scd",
+      "sha1": "146585bc591c584e146c171915a31e568c43ead8"
+    },
     "635": {
       "index": 635,
       "name": "music/ffxiv/BGM_Ride_Seiryu.scd",
