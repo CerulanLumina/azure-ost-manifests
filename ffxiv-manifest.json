@@ -2945,6 +2945,61 @@
       "name": "music/ex2/BGM_EX2_Uzune2.scd",
       "sha1": "d3d26e4f713160930031959c5ba664430f5f9062"
     },
+    "604": {
+      "index": 604,
+      "name": "music/ffxiv/BGM_Event_BKC01.scd",
+      "sha1": "9215b2c863f4b495047589d7621f37b6888a3832"
+    },
+    "605": {
+      "index": 605,
+      "name": "music/ffxiv/BGM_Event_BKC02.scd",
+      "sha1": "e90f939a3e6538af055e92242c2bf1c29146a91c"
+    },
+    "606": {
+      "index": 606,
+      "name": "music/ffxiv/BGM_Event_BKC03.scd",
+      "sha1": "a4d6df04a9a168ab281d77d1889d189182b1f8f1"
+    },
+    "607": {
+      "index": 607,
+      "name": "music/ffxiv/BGM_Event_BKC04.scd",
+      "sha1": "5b13ad92dd29dfc6c9c9171d76afd085d4383ec6"
+    },
+    "608": {
+      "index": 608,
+      "name": "music/ffxiv/BGM_Event_BKC05.scd",
+      "sha1": "f5111220c1b0e7f8f6a48f8f29d7b5c1c1897ea4"
+    },
+    "609": {
+      "index": 609,
+      "name": "music/ffxiv/BGM_Event_BKC06.scd",
+      "sha1": "2e1339473d0e48890d0885d9d47aefed08f134d4"
+    },
+    "610": {
+      "index": 610,
+      "name": "music/ffxiv/BGM_Event_BKC07.scd",
+      "sha1": "07950ee29982d85d2ed1ff786208e1f02408cd9d"
+    },
+    "611": {
+      "index": 611,
+      "name": "music/ffxiv/BGM_Event_BKC08.scd",
+      "sha1": "34282f4d50069da05fbabe055f6349a64c3bd9d2"
+    },
+    "612": {
+      "index": 612,
+      "name": "music/ffxiv/BGM_Event_BKC09.scd",
+      "sha1": "bbf22660f8ceb3dd5693fba5f6f1b696b9526412"
+    },
+    "613": {
+      "index": 613,
+      "name": "music/ffxiv/BGM_Event_BKC10.scd",
+      "sha1": "4c38b16269d62e09fdd33b133787c534a4d70d4a"
+    },
+    "614": {
+      "index": 614,
+      "name": "music/ffxiv/BGM_Ride_BKC.scd",
+      "sha1": "5b9f34f65ab29d99aba0c0f2dfc320d82be75801"
+    },
     "615": {
       "index": 615,
       "name": "music/ex2/BGM_EX2_Rti_19.scd",
@@ -3094,6 +3149,11 @@
       "index": 644,
       "name": "music/ffxiv/BGM_RideShooting.scd",
       "sha1": "9d3cfb4e85c3070c8df97de9ee121800582176b9"
+    },
+    "645": {
+      "index": 645,
+      "name": "music/ex2/BGM_EX2_EndCredit02.scd",
+      "sha1": "ff2e504ebcac444ca8ab51c35e7909f0b0e2804d"
     }
   }
 }
