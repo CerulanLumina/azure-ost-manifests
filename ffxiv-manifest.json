@@ -1228,7 +1228,7 @@
     "250": {
       "index": 250,
       "name": "music/ffxiv/BGM_GlodSaucer_Lobby.scd",
-      "sha1": "6b3646bccbc02c2935153351c2252acb566853a7"
+      "sha1": "d98d62585a07f282db5caa6c143bef6e17fd72b4"
     },
     "251": {
       "index": 251,
@@ -2944,6 +2944,141 @@
       "index": 593,
       "name": "music/ex2/BGM_EX2_Uzune2.scd",
       "sha1": "d3d26e4f713160930031959c5ba664430f5f9062"
+    },
+    "615": {
+      "index": 615,
+      "name": "music/ex2/BGM_EX2_Rti_19.scd",
+      "sha1": "b6f7544cd43fb25515114bd1bc163c51e121eff9"
+    },
+    "616": {
+      "index": 616,
+      "name": "music/ex2/BGM_EX2_Rti_20.scd",
+      "sha1": "cd9a2bbf1e6e07df63920f1fa1f9b5658e59854b"
+    },
+    "617": {
+      "index": 617,
+      "name": "music/ex2/BGM_EX2_Rti_21.scd",
+      "sha1": "e7535e4ccb22be0958fc6db65137a08c42bb9ba1"
+    },
+    "618": {
+      "index": 618,
+      "name": "music/ex2/BGM_EX2_Rti_22.scd",
+      "sha1": "a7774ea2251d4eead88749936211688a9c1e717e"
+    },
+    "619": {
+      "index": 619,
+      "name": "music/ex2/BGM_EX2_Rti_23.scd",
+      "sha1": "3099b0acf91dd9dead082159569dbb0635cdbec1"
+    },
+    "620": {
+      "index": 620,
+      "name": "music/ex2/BGM_EX2_Rti_24.scd",
+      "sha1": "3ea335843304f0b36a9a8baa0c47c84e2cde5e95"
+    },
+    "621": {
+      "index": 621,
+      "name": "music/ex2/BGM_EX2_Rti_25.scd",
+      "sha1": "7b6e13adc8cffcc75e8c05b39041dba5f02eee6e"
+    },
+    "622": {
+      "index": 622,
+      "name": "music/ex2/BGM_EX2_Rti_26.scd",
+      "sha1": "08ae2fc64130258bdd699a781b562b125511425a"
+    },
+    "623": {
+      "index": 623,
+      "name": "music/ex2/BGM_EX2_Rti_27.scd",
+      "sha1": "1ac421a0b91e7dd8dba713b73aec947f1807fe97"
+    },
+    "624": {
+      "index": 624,
+      "name": "music/ex2/BGM_EX2_Rti_28.scd",
+      "sha1": "d30adb2c5c508da9d66f578dd2f7b821c9c2ca4a"
+    },
+    "625": {
+      "index": 625,
+      "name": "music/ex2/BGM_EX2_Rti_29.scd",
+      "sha1": "25886bf77f16fbfceb5e24972fb46c30a1d593b5"
+    },
+    "626": {
+      "index": 626,
+      "name": "music/ex2/BGM_EX2_Rti_30.scd",
+      "sha1": "86688a173f0994a9ed6ece2f6543a92a8ca2427d"
+    },
+    "627": {
+      "index": 627,
+      "name": "music/ex2/BGM_EX2_Rti_32.scd",
+      "sha1": "9f71d16d14c726e24eef5265c818009240a26197"
+    },
+    "628": {
+      "index": 628,
+      "name": "music/ex2/BGM_EX2_Rti_33.scd",
+      "sha1": "e4d6ab0f9c4580f5bdebed020dfe3f7737ebae43"
+    },
+    "629": {
+      "index": 629,
+      "name": "music/ex2/BGM_EX2_Rti_34.scd",
+      "sha1": "63a9556dde5440de160a6a228214cdeae235d4fe"
+    },
+    "630": {
+      "index": 630,
+      "name": "music/ffxiv/BGM_AOZ_Battle01.scd",
+      "sha1": "567d4010b7055bda52b46b2494ba2874e89e4a70"
+    },
+    "631": {
+      "index": 631,
+      "name": "music/ffxiv/BGM_AOZ_Battle02.scd",
+      "sha1": "a765432927f93fe6e6a36e5bdbc5f711bc1f3c62"
+    },
+    "635": {
+      "index": 635,
+      "name": "music/ffxiv/BGM_Ride_Seiryu.scd",
+      "sha1": "c83d281dce7a401b6f8320bad15115573d8dd118"
+    },
+    "636": {
+      "index": 636,
+      "name": "music/ffxiv/BGM_Ride_Kyubi.scd",
+      "sha1": "022b96d87bba3dde504eb7c97ce9bf8fcb8e6b95"
+    },
+    "637": {
+      "index": 637,
+      "name": "music/ffxiv/BGM_Ride_Kgreen.scd",
+      "sha1": "d98dedae59529c5fd7672616ace213846d84af65"
+    },
+    "638": {
+      "index": 638,
+      "name": "music/ffxiv/BGM_Ride_Kyellow.scd",
+      "sha1": "79a0909ba1b76b3552eef8eacd8bc7175a120d12"
+    },
+    "639": {
+      "index": 639,
+      "name": "music/ex2/BGM_EX2_Dan_D15.scd",
+      "sha1": "ed1b58fd32d4973d509b913362c3440f4e95f1c9"
+    },
+    "640": {
+      "index": 640,
+      "name": "music/ex2/BGM_EX2_Ban_26.scd",
+      "sha1": "86f84bca3bd5c498ea45db44acb0d79b727a18ef"
+    },
+    "641": {
+      "index": 641,
+      "name": "music/ffxiv/BGM_EMJ.scd",
+      "sha1": "46ee2f68035e8488462cdfeb9e583f37d5442482"
+    },
+    "642": {
+      "index": 642,
+      "name": "music/ffxiv/BGM_RideShooting_Win.scd",
+      "sha1": "bc63d869542600de8c5ad6a8494bc0fb589223ae"
+    },
+    "643": {
+      "index": 643,
+      "name": "music/ffxiv/BGM_RideShooting_Lose.scd",
+      "sha1": "9c021f1c0b9db6777904c330f62fb6f0f3faf2f1"
+    },
+    "644": {
+      "index": 644,
+      "name": "music/ffxiv/BGM_RideShooting.scd",
+      "sha1": "9d3cfb4e85c3070c8df97de9ee121800582176b9"
     }
   }
 }
