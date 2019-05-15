@@ -1,0 +1,2879 @@
+{
+  "files": {
+    "2": {
+      "index": 2,
+      "name": "music/ffxiv/BGM_System_Title.scd",
+      "sha1": "4e0c135c79db9ab8e404b9eac4b76fe0c7ec1f14"
+    },
+    "3": {
+      "index": 3,
+      "name": "music/ffxiv/BGM_System_Launcher.scd",
+      "sha1": "291b8db861cebd0b537070b0932d56be7fdda070"
+    },
+    "4": {
+      "index": 4,
+      "name": "music/ffxiv/BGM_System_Chara.scd",
+      "sha1": "ca6a865e0d980530acd9511c1a6ff07d02e6defe"
+    },
+    "5": {
+      "index": 5,
+      "name": "music/ffxiv/BGM_Town_Rest_01.scd",
+      "sha1": "a235bcf1b1da950bdc454608f76fcf0c040c5bc5"
+    },
+    "6": {
+      "index": 6,
+      "name": "music/ffxiv/BGM_Town_Gri_Day.scd",
+      "sha1": "d55639bcab0d5af1150e4443aabe80d67ad22789"
+    },
+    "7": {
+      "index": 7,
+      "name": "music/ffxiv/BGM_Town_Gri_Night.scd",
+      "sha1": "04550f8b587f344953b2a155a4c32843ae952ed6"
+    },
+    "8": {
+      "index": 8,
+      "name": "music/ffxiv/BGM_Field_Gri_01.scd",
+      "sha1": "b3edff2202fda9f0078a1f2901247587149d3071"
+    },
+    "9": {
+      "index": 9,
+      "name": "music/ffxiv/BGM_Field_Gri_02.scd",
+      "sha1": "8c54756c4f495b5683b60bde99e6d89af72ee851"
+    },
+    "10": {
+      "index": 10,
+      "name": "music/ffxiv/BGM_Field_Gri_03.scd",
+      "sha1": "cc82bba52f5b7fcb3cca660f7b4caa04e7bdf9ad"
+    },
+    "11": {
+      "index": 11,
+      "name": "music/ffxiv/BGM_Field_Gri_04.scd",
+      "sha1": "b32214364475bc1ee25b02559589cc85972d1ac4"
+    },
+    "12": {
+      "index": 12,
+      "name": "music/ffxiv/BGM_Field_Gri_05.scd",
+      "sha1": "ebae8d8b62ee32d7a6031648166af8dce6fc89f1"
+    },
+    "13": {
+      "index": 13,
+      "name": "music/ffxiv/BGM_Battle_Gri_01.scd",
+      "sha1": "1545cfc24e1472a0c3ae9d1465361aceb1d5a1b3"
+    },
+    "14": {
+      "index": 14,
+      "name": "music/ffxiv/BGM_Leves.scd",
+      "sha1": "a56fe0ad27c90bceecd7907049bada723c97c3f3"
+    },
+    "15": {
+      "index": 15,
+      "name": "music/ffxiv/BGM_Dungeon_Gri_01.scd",
+      "sha1": "1e58ab6a969959482c4c368e826c427fab697b2b"
+    },
+    "16": {
+      "index": 16,
+      "name": "music/ffxiv/BGM_Battle_Dungeon_01.scd",
+      "sha1": "57c09a549e285fe08b1e0f598c59eee124f3a99b"
+    },
+    "17": {
+      "index": 17,
+      "name": "music/ffxiv/BGM_Rade_01.scd",
+      "sha1": "2e350c15064b82ae436652276b9cc6028656b2ac"
+    },
+    "18": {
+      "index": 18,
+      "name": "music/ffxiv/BGM_System_WinLoop.scd",
+      "sha1": "a6af51ea4fbcbcbea5c495744c7395f242b6cbe5"
+    },
+    "20": {
+      "index": 20,
+      "name": "music/ffxiv/BGM_System_WinShot_01.scd",
+      "sha1": "6ed9b16dd12ad3d2eeffdc3819580bffe2b52663"
+    },
+    "21": {
+      "index": 21,
+      "name": "music/ffxiv/BGM_System_WinShot_02.scd",
+      "sha1": "32cc91c6eb395de7005936701cd89e9a7e61b639"
+    },
+    "22": {
+      "index": 22,
+      "name": "music/ffxiv/BGM_System_WinShot_03.scd",
+      "sha1": "9c5462bf4c9328fa83b1284765852c024e946c25"
+    },
+    "23": {
+      "index": 23,
+      "name": "music/ffxiv/BGM_System_WinShot_04.scd",
+      "sha1": "37cd82a6b0bde0f8928846cfa44ed0fa00862804"
+    },
+    "24": {
+      "index": 24,
+      "name": "music/ffxiv/BGM_Field_Gri_06.scd",
+      "sha1": "f787178a8567fd79c550fd1913eb7d4afd12654b"
+    },
+    "25": {
+      "index": 25,
+      "name": "music/ffxiv/BGM_Town_Lim_Day.scd",
+      "sha1": "00c695a8ae778eac9ec7759c8f333341669b0b6f"
+    },
+    "26": {
+      "index": 26,
+      "name": "music/ffxiv/BGM_Town_Lim_Night.scd",
+      "sha1": "f1dfb0231bc64804c8f6c6427d16109f0a5e20c0"
+    },
+    "27": {
+      "index": 27,
+      "name": "music/ffxiv/BGM_Field_Lim_01.scd",
+      "sha1": "78955a8076bc955e557e779a6ab6e340c8a39986"
+    },
+    "28": {
+      "index": 28,
+      "name": "music/ffxiv/BGM_Field_Lim_02.scd",
+      "sha1": "3f329607349665ca4c637002cb75a373d7974c10"
+    },
+    "29": {
+      "index": 29,
+      "name": "music/ffxiv/BGM_Field_Lim_03.scd",
+      "sha1": "a92eddaf3ee3c0fd8fd3ad13f3cfc554af000f89"
+    },
+    "30": {
+      "index": 30,
+      "name": "music/ffxiv/BGM_Field_Lim_04.scd",
+      "sha1": "29d2e835ebee8ad91d45a77554cbc27d4e0e3ef3"
+    },
+    "31": {
+      "index": 31,
+      "name": "music/ffxiv/BGM_Field_Lim_05.scd",
+      "sha1": "5497a50a91f9e2079ca403facf722c8b203fc190"
+    },
+    "32": {
+      "index": 32,
+      "name": "music/ffxiv/BGM_Field_Lim_06.scd",
+      "sha1": "b3738b55f18755d6fcc7cd541e83db8cc7f7f5cf"
+    },
+    "33": {
+      "index": 33,
+      "name": "music/ffxiv/BGM_Battle_Lim_01.scd",
+      "sha1": "b386a13fb11ebb3011ab7d2bd360e3d21c3c5e15"
+    },
+    "35": {
+      "index": 35,
+      "name": "music/ffxiv/BGM_Dungeon_Lim_01.scd",
+      "sha1": "ee5d71dcd3bce85b234ea97e8545f169ec88ce5a"
+    },
+    "36": {
+      "index": 36,
+      "name": "music/ffxiv/BGM_Boss_01.scd",
+      "sha1": "80e2c43a4f8fe0965f35e8bbbbb4d37ec0b0bbc4"
+    },
+    "37": {
+      "index": 37,
+      "name": "music/ffxiv/BGM_Boss_02.scd",
+      "sha1": "8b332da2f5dbcdab85d9064cb5238a65e2e8c970"
+    },
+    "38": {
+      "index": 38,
+      "name": "music/ffxiv/BGM_Boss_03.scd",
+      "sha1": "1520394e7ef9c6c02b948ff386e52e3e596a33e7"
+    },
+    "39": {
+      "index": 39,
+      "name": "music/ffxiv/BGM_Boss_04.scd",
+      "sha1": "19822ae5c509c9fbee2b3f37d0ca2e8ce5eed426"
+    },
+    "40": {
+      "index": 40,
+      "name": "music/ffxiv/BGM_Behest.scd",
+      "sha1": "65ba881c6d245001bd9ad3a92832d6e327857041"
+    },
+    "41": {
+      "index": 41,
+      "name": "music/ffxiv/BGM_Dungeon_Gri_02.scd",
+      "sha1": "c8fd97d1b8864cecb4dcf08ba283df96069314e2"
+    },
+    "42": {
+      "index": 42,
+      "name": "music/ffxiv/BGM_Dungeon_Gri_03.scd",
+      "sha1": "78e319505144893dea785dc14cc63900c3210f72"
+    },
+    "43": {
+      "index": 43,
+      "name": "music/ffxiv/BGM_Dungeon_Lim_02.scd",
+      "sha1": "afffe11647a0dc677c076d030b50012a14e494d7"
+    },
+    "44": {
+      "index": 44,
+      "name": "music/ffxiv/BGM_Town_Uru_Day.scd",
+      "sha1": "b279025094d648c734263535170e5af608d7afc5"
+    },
+    "45": {
+      "index": 45,
+      "name": "music/ffxiv/BGM_Town_Uru_Night.scd",
+      "sha1": "40b5df463abd43bf3f7d34d7317b0e7d9fc2d7a4"
+    },
+    "46": {
+      "index": 46,
+      "name": "music/ffxiv/BGM_Field_Uru_01.scd",
+      "sha1": "23a352fe5759e69f9b2d814b373a4e515946cb08"
+    },
+    "47": {
+      "index": 47,
+      "name": "music/ffxiv/BGM_Field_Uru_02.scd",
+      "sha1": "13de85dd95874e6e0c6286342d6e39083c320f63"
+    },
+    "48": {
+      "index": 48,
+      "name": "music/ffxiv/BGM_Field_Uru_03.scd",
+      "sha1": "a37bcb6b65c3b277e100378907a66575a80dbf71"
+    },
+    "49": {
+      "index": 49,
+      "name": "music/ffxiv/BGM_Field_Uru_04.scd",
+      "sha1": "d9a1ff8b7ad4679b1398ffeb51311a1be5a8b74f"
+    },
+    "50": {
+      "index": 50,
+      "name": "music/ffxiv/BGM_Field_Uru_05.scd",
+      "sha1": "69277f60d2d8e7a611936da84d437143b3ac0a81"
+    },
+    "51": {
+      "index": 51,
+      "name": "music/ffxiv/BGM_Field_Uru_06.scd",
+      "sha1": "5d94826624cf859d3c6666548e2937e046c41796"
+    },
+    "52": {
+      "index": 52,
+      "name": "music/ffxiv/BGM_Battle_Uru_01.scd",
+      "sha1": "692fcf745ce835849f7335e249436023006acef3"
+    },
+    "53": {
+      "index": 53,
+      "name": "music/ffxiv/BGM_Dungeon_Uru_01.scd",
+      "sha1": "dd6ec3a6e40a4227c39973e7b807aac125602c69"
+    },
+    "54": {
+      "index": 54,
+      "name": "music/ffxiv/BGM_Dungeon_Uru_02.scd",
+      "sha1": "4dbf767bc88912a73f62ae70c94f5dcfb4b69ff4"
+    },
+    "55": {
+      "index": 55,
+      "name": "music/ffxiv/BGM_Field_Safe1.scd",
+      "sha1": "aa224b7da6a82fb7fb21715309b880cb8f1878d9"
+    },
+    "56": {
+      "index": 56,
+      "name": "music/ffxiv/BGM_Field_Safe2.scd",
+      "sha1": "df27763f6fe5404706eb9d2c4e52fd73c6a269c3"
+    },
+    "57": {
+      "index": 57,
+      "name": "music/ffxiv/BGM_Field_Danger1.scd",
+      "sha1": "1f66adeff2609fc0d0f356da6ecd92f7d891cf9f"
+    },
+    "58": {
+      "index": 58,
+      "name": "music/ffxiv/BGM_Field_Danger2.scd",
+      "sha1": "ff681b4b37b2a9c02e1493002da67ecf46fb66b8"
+    },
+    "59": {
+      "index": 59,
+      "name": "music/ffxiv/BGM_Field_Danger3.scd",
+      "sha1": "183bc6c8f962c44baadc7b2b23ebf680202c2b6e"
+    },
+    "60": {
+      "index": 60,
+      "name": "music/ffxiv/BGM_Field_Mor_01.scd",
+      "sha1": "7549175e1771aad32e98c1d25195af4150347e25"
+    },
+    "61": {
+      "index": 61,
+      "name": "music/ffxiv/BGM_Ride_RChocobo.scd",
+      "sha1": "644206f64a54e653a78aa024f1e65615bcf83731"
+    },
+    "62": {
+      "index": 62,
+      "name": "music/ffxiv/BGM_Ride_Chocobo.scd",
+      "sha1": "bc42d6db1674047ba2ce2e5a84e9efc22dac96f6"
+    },
+    "63": {
+      "index": 63,
+      "name": "music/ffxiv/BGM_Company_Gri.scd",
+      "sha1": "b93dd40494937293e5052326d29028224fbbb597"
+    },
+    "64": {
+      "index": 64,
+      "name": "music/ffxiv/BGM_Company_Lim.scd",
+      "sha1": "a11f3b798a69133dffa0633778eaaa5f08a9a9d0"
+    },
+    "65": {
+      "index": 65,
+      "name": "music/ffxiv/BGM_Company_Uru.scd",
+      "sha1": "c0086f72deaac11a0832f93689f1e129ed8e851d"
+    },
+    "66": {
+      "index": 66,
+      "name": "music/ffxiv/BGM_Field_Suna.scd",
+      "sha1": "2f62c963ada2b56a624008bf90326add12207f13"
+    },
+    "67": {
+      "index": 67,
+      "name": "music/ffxiv/BGM_Leves_Easy.scd",
+      "sha1": "3a101faef9354b5973fbed3977c448c913083069"
+    },
+    "68": {
+      "index": 68,
+      "name": "music/ffxiv/BGM_Fate_Kyoten.scd",
+      "sha1": "d9ff66554be369a78c3ae2671f7e9744b0312726"
+    },
+    "69": {
+      "index": 69,
+      "name": "music/ffxiv/BGM_Fate_Bouei.scd",
+      "sha1": "2f5a986a6ca58e5e5dc6cbb90c068a1ea5ed5ca5"
+    },
+    "70": {
+      "index": 70,
+      "name": "music/ffxiv/BGM_Event_StartGri.scd",
+      "sha1": "28034806465455436376e3b946dcd1a79ae41b1f"
+    },
+    "71": {
+      "index": 71,
+      "name": "music/ffxiv/BGM_Event_StartLim.scd",
+      "sha1": "37360240afaf7bfbc7b8b6333aeb30fdfa59cfa0"
+    },
+    "72": {
+      "index": 72,
+      "name": "music/ffxiv/BGM_Event_StartLUru.scd",
+      "sha1": "70a2640511b7a0e98c3e3693207bd0b224625750"
+    },
+    "73": {
+      "index": 73,
+      "name": "music/ffxiv/BGM_Event_Kanue.scd",
+      "sha1": "6a11e96898c2244e6f019b9168b859e2d6d5421b"
+    },
+    "74": {
+      "index": 74,
+      "name": "music/ffxiv/BGM_Event_Rauburn.scd",
+      "sha1": "f3c468f4732c83bb3996450b557d0a81dcd46ec0"
+    },
+    "75": {
+      "index": 75,
+      "name": "music/ffxiv/BGM_Event_Melvib.scd",
+      "sha1": "cead5a0ce8e9f618253fb79c2904d3be73554c93"
+    },
+    "76": {
+      "index": 76,
+      "name": "music/ffxiv/BGM_Event_Teikoku.scd",
+      "sha1": "1710e152f16a7b185e7986df13266a60a8b4b9e5"
+    },
+    "77": {
+      "index": 77,
+      "name": "music/ffxiv/BGM_Event_Protector.scd",
+      "sha1": "5c60b5b4788906dedfcef2661ba451f441df32ca"
+    },
+    "78": {
+      "index": 78,
+      "name": "music/ffxiv/BGM_Event_Huon.scd",
+      "sha1": "9f9133880778d4901bfe8d021e905da0c41c1552"
+    },
+    "79": {
+      "index": 79,
+      "name": "music/ffxiv/BGM_Event_BanActivity.scd",
+      "sha1": "ff1422d095109d021319a10feb25f8fd759cee9b"
+    },
+    "80": {
+      "index": 80,
+      "name": "music/ffxiv/BGM_Event_Mystery.scd",
+      "sha1": "eb5c5bf24037e0fadefc8bf56ba64cb74b11769b"
+    },
+    "81": {
+      "index": 81,
+      "name": "music/ffxiv/BGM_Event_Crystal.scd",
+      "sha1": "46856534328a413acb8a7ee993d21945d60a43c8"
+    },
+    "82": {
+      "index": 82,
+      "name": "music/ffxiv/BGM_Event_HeroReturn.scd",
+      "sha1": "8859b4404528cf0bb670adaffcf19da852cb5637"
+    },
+    "83": {
+      "index": 83,
+      "name": "music/ffxiv/BGM_Event_BattleOverture.scd",
+      "sha1": "6a1fe9c01329e679a095c9986ee495eb6d9bea5f"
+    },
+    "84": {
+      "index": 84,
+      "name": "music/ffxiv/BGM_Event_Sad.scd",
+      "sha1": "0e954a3c87cdc3168a9052e2b3d9a5ffdd41ea5a"
+    },
+    "85": {
+      "index": 85,
+      "name": "music/ffxiv/BGM_Event_Keikaku.scd",
+      "sha1": "0c39bbf119604b74ada51f908d4a1563ba3af4bd"
+    },
+    "86": {
+      "index": 86,
+      "name": "music/ffxiv/BGM_Event_Buki.scd",
+      "sha1": "fe1544fc49b5b0992e8a1da75bc595f1e887d02c"
+    },
+    "87": {
+      "index": 87,
+      "name": "music/ffxiv/BGM_Event_Tanoshii1.scd",
+      "sha1": "82eff38501e30e546423bae24ad50a9f15ddb790"
+    },
+    "88": {
+      "index": 88,
+      "name": "music/ffxiv/BGM_Event_Tanoshii2.scd",
+      "sha1": "b6101552bbb807ae562ac3a1d52a0e91c69274be"
+    },
+    "89": {
+      "index": 89,
+      "name": "music/ffxiv/BGM_Event_Tabidachi.scd",
+      "sha1": "336a056bb2d0c52778f07a161e1d0ce965fea3d0"
+    },
+    "90": {
+      "index": 90,
+      "name": "music/ffxiv/BGM_Event_JobEvent.scd",
+      "sha1": "22956c4780cce1e01bfa09109f88ef2f222489eb"
+    },
+    "91": {
+      "index": 91,
+      "name": "music/ffxiv/BGM_Event_JobShiren.scd",
+      "sha1": "b0c28c078d48d37677ed4824b02d2c1d05a024bb"
+    },
+    "92": {
+      "index": 92,
+      "name": "music/ffxiv/BGM_Event_Kako.scd",
+      "sha1": "e2004b9a877523aa6280bcc43277f378b98cbef3"
+    },
+    "93": {
+      "index": 93,
+      "name": "music/ffxiv/BGM_Event_Ansoku1.scd",
+      "sha1": "f6f3af612601401520e15d15cc266fd524174acb"
+    },
+    "94": {
+      "index": 94,
+      "name": "music/ffxiv/BGM_Event_Ascian.scd",
+      "sha1": "d388f27ce4e67ce807d628fa4b8ff8ec6953efe4"
+    },
+    "95": {
+      "index": 95,
+      "name": "music/ffxiv/BGM_Event_7thUmbralEra.scd",
+      "sha1": "993e029f5820adaf5055a5ec2f2fe5d9e755b5d4"
+    },
+    "96": {
+      "index": 96,
+      "name": "music/ffxiv/BGM_Event_VerySad.scd",
+      "sha1": "24cc33aa0aeaa4e31a77a90d0a735011edacf76a"
+    },
+    "97": {
+      "index": 97,
+      "name": "music/ffxiv/BGM_Event_Truth.scd",
+      "sha1": "2495d19a8e5d19bc56a85af7fe8de816eee7e9d8"
+    },
+    "98": {
+      "index": 98,
+      "name": "music/ffxiv/BGM_Event_Ansoku2.scd",
+      "sha1": "ce1e20e5026a2f55b4f9c8dda562e4f7eed70638"
+    },
+    "99": {
+      "index": 99,
+      "name": "music/ffxiv/BGM_Event_MemoryOfCid.scd",
+      "sha1": "973651e5775e65f5bc3ab95e10f3c8c6f6fe6415"
+    },
+    "100": {
+      "index": 100,
+      "name": "music/ffxiv/BGM_Event_Bazaar.scd",
+      "sha1": "78a80790c04f59f9b7447d9b0dfcedb780f9ff1c"
+    },
+    "101": {
+      "index": 101,
+      "name": "music/ffxiv/BGM_Event_Craft.scd",
+      "sha1": "ad478e84279e8cf75a5c45248ade1f88e13f1eca"
+    },
+    "102": {
+      "index": 102,
+      "name": "music/ffxiv/BGM_Event_Nego.scd",
+      "sha1": "39114689e6c40a233ecbd23ef8409f58caf8358b"
+    },
+    "103": {
+      "index": 103,
+      "name": "music/ffxiv/BGM_Event_Hildy.scd",
+      "sha1": "19058f3d23a7c5fe1ac2e5df17a8cafd6b525003"
+    },
+    "104": {
+      "index": 104,
+      "name": "music/ffxiv/BGM_Event_GrandfatherLvup.scd",
+      "sha1": "b9951c041d74918aed7672cb0b7e14aa02fcc367"
+    },
+    "105": {
+      "index": 105,
+      "name": "music/ffxiv/BGM_Event_Saisyu.scd",
+      "sha1": "2b4c70b10c6e54e00d643d3262e768db46a841de"
+    },
+    "106": {
+      "index": 106,
+      "name": "music/ffxiv/BGM_Event_CrystalHarpOnly.scd",
+      "sha1": "bd0d836473d28c97d3ae7385a52cc6d6f4e5a1db"
+    },
+    "107": {
+      "index": 107,
+      "name": "music/ffxiv/BGM_Event_BattleCommon_01.scd",
+      "sha1": "8ae77c04c172f3daac94545f4f237843f7279f4b"
+    },
+    "108": {
+      "index": 108,
+      "name": "music/ffxiv/BGM_Event_FF2BossBattle.scd",
+      "sha1": "9064886087bf325d2d3d191bb6e207d7a4789956"
+    },
+    "109": {
+      "index": 109,
+      "name": "music/ffxiv/BGM_Event_Kessen.scd",
+      "sha1": "8321ac2bf212735af00632b2b0d51036df458d6d"
+    },
+    "110": {
+      "index": 110,
+      "name": "music/ffxiv/BGM_Field_Lim_07.scd",
+      "sha1": "c40316e3733c888c14d223d3a3f6dc5af8a40cc8"
+    },
+    "111": {
+      "index": 111,
+      "name": "music/ffxiv/BGM_Field_Lim_08.scd",
+      "sha1": "d608a795281b6edde71b2dd8efebdba9521085fa"
+    },
+    "112": {
+      "index": 112,
+      "name": "music/ffxiv/BGM_Event_DarknessLullaby.scd",
+      "sha1": "a32c09513cfb91b473dad6baba53b7e6b36ccd3f"
+    },
+    "113": {
+      "index": 113,
+      "name": "music/ffxiv/BGM_Event_BattleCommon_02.scd",
+      "sha1": "ef6647517fc8d59b2dcc9daf2a8c9c54137dbb11"
+    },
+    "114": {
+      "index": 114,
+      "name": "music/ffxiv/BGM_Event_Kincho.scd",
+      "sha1": "d88144a5fb9df2228c54554f758e522f59ed8265"
+    },
+    "115": {
+      "index": 115,
+      "name": "music/ffxiv/BGM_Fate_Mid.scd",
+      "sha1": "77d1489ab3e7a1acf7642280cd149685f4d450e5"
+    },
+    "116": {
+      "index": 116,
+      "name": "music/ffxiv/BGM_Battle_Dungeon_02.scd",
+      "sha1": "94e6748d45adb60c9da4ccdfad739350a80158d7"
+    },
+    "117": {
+      "index": 117,
+      "name": "music/ffxiv/BGM_Event_Treacherous.scd",
+      "sha1": "5f4093ab5e47ee9f70e83b196f11b0dd00ac870e"
+    },
+    "118": {
+      "index": 118,
+      "name": "music/ffxiv/BGM_Field_Bar.scd",
+      "sha1": "28651ff242879a9237748af81d1793675040f98b"
+    },
+    "119": {
+      "index": 119,
+      "name": "music/ffxiv/BGM_Field_Lim_Beach.scd",
+      "sha1": "59e4c90d9471dd582df73c5df5b81dccf4291604"
+    },
+    "120": {
+      "index": 120,
+      "name": "music/ffxiv/BGM_Ban_Ifrit.scd",
+      "sha1": "012eae9bf1fd2d8768a841b4734fa243aaaeefae"
+    },
+    "121": {
+      "index": 121,
+      "name": "music/ffxiv/BGM_Ride_CommonMonster.scd",
+      "sha1": "1702b52b10db2010fcf7d907db6460c67f3dc4dc"
+    },
+    "122": {
+      "index": 122,
+      "name": "music/ffxiv/BGM_Dungeon_Gri_04.scd",
+      "sha1": "9acf5a7daca0cb1a84ffd8541cfa403d77a0a9e3"
+    },
+    "123": {
+      "index": 123,
+      "name": "music/ffxiv/BGM_Dungeon_Lim_03.scd",
+      "sha1": "afcdc8d3870623994a6fba5cbfafd7ac3be29dca"
+    },
+    "124": {
+      "index": 124,
+      "name": "music/ffxiv/BGM_Dungeon_Uru_03.scd",
+      "sha1": "e2b14bbcfd850864f3574de1b46fdd991e91b021"
+    },
+    "125": {
+      "index": 125,
+      "name": "music/ffxiv/BGM_Dungeon_Uru_04.scd",
+      "sha1": "027ec11f499a201d39f7ec1fd4151600edd526c4"
+    },
+    "126": {
+      "index": 126,
+      "name": "music/ffxiv/BGM_Dungeon_Ish_01.scd",
+      "sha1": "4b9e901aa2fa678052529e3c961d2b14928e71f5"
+    },
+    "127": {
+      "index": 127,
+      "name": "music/ffxiv/BGM_Dungeon_Ish_02.scd",
+      "sha1": "7535447b37fdd52d0a8fda6abef06b1704204516"
+    },
+    "128": {
+      "index": 128,
+      "name": "music/ffxiv/BGM_Dungeon_Ish_03.scd",
+      "sha1": "07b0e1f5c1cb8e6bdd748f91a88812dc81d3431d"
+    },
+    "129": {
+      "index": 129,
+      "name": "music/ffxiv/BGM_Event_Enterprise.scd",
+      "sha1": "79ce0c9855167bb975bf490b30a52df6202275f3"
+    },
+    "130": {
+      "index": 130,
+      "name": "music/ffxiv/BGM_Event_Fuan.scd",
+      "sha1": "141e933aeb549e1511e35e707f5ce40591604869"
+    },
+    "131": {
+      "index": 131,
+      "name": "music/ffxiv/BGM_Event_Blow.scd",
+      "sha1": "512b3070c57c4e3488d6cbedb5d1c03a6e7da6d1"
+    },
+    "132": {
+      "index": 132,
+      "name": "music/ffxiv/BGM_System_EndCredit01.scd",
+      "sha1": "477e69b66941a2a06075584c9e4c4b36781d0116"
+    },
+    "133": {
+      "index": 133,
+      "name": "music/ffxiv/BGM_System_EndCredit02.scd",
+      "sha1": "05604d374aa0954e35f58edd08b73789f7db5fc4"
+    },
+    "134": {
+      "index": 134,
+      "name": "music/ffxiv/BGM_Field_BanFort_Sylph.scd",
+      "sha1": "d3c250b0ded776e8715ab918e35d122cb279cbeb"
+    },
+    "135": {
+      "index": 135,
+      "name": "music/ffxiv/BGM_Field_BanFort_Ixal.scd",
+      "sha1": "1e94744942816ac7275abe57f3aaed77b8186131"
+    },
+    "136": {
+      "index": 136,
+      "name": "music/ffxiv/BGM_Field_BanFort_Kobold.scd",
+      "sha1": "261474d52c0217fe16b5fa6026386d5a3f57a090"
+    },
+    "137": {
+      "index": 137,
+      "name": "music/ffxiv/BGM_Field_BanFort_Sahagin.scd",
+      "sha1": "7dffd84ea53bb2fec84afbd69934f7873302fd09"
+    },
+    "138": {
+      "index": 138,
+      "name": "music/ffxiv/BGM_Field_BanFort_Amaruja.scd",
+      "sha1": "6bea4cf8db861ad64d6f5e5b4349f3cacf6e0ae3"
+    },
+    "139": {
+      "index": 139,
+      "name": "music/ffxiv/BGM_Field_PVP.scd",
+      "sha1": "9a566eae83737e6749b4175679ba7b6350129af0"
+    },
+    "140": {
+      "index": 140,
+      "name": "music/ffxiv/BGM_Field_Lim_Housing.scd",
+      "sha1": "d44136609d262c4c0204fb5e6051ceb0d2232a3f"
+    },
+    "141": {
+      "index": 141,
+      "name": "music/ffxiv/BGM_Field_Ish_01.scd",
+      "sha1": "17b4ab750c7c4d8955f5715f00653405b43df441"
+    },
+    "142": {
+      "index": 142,
+      "name": "music/ffxiv/BGM_Field_Ish_02.scd",
+      "sha1": "2a41b096285e87f654cd53104f6bb82a935fdf03"
+    },
+    "143": {
+      "index": 143,
+      "name": "music/ffxiv/BGM_Field_Ish_03.scd",
+      "sha1": "597f9c26e77fedea5cb11928c8f77e88665f04e0"
+    },
+    "144": {
+      "index": 144,
+      "name": "music/ffxiv/BGM_Battle_Ish_01.scd",
+      "sha1": "69c7379ac191dc5c5be3f3c90abdf7d0c363d052"
+    },
+    "145": {
+      "index": 145,
+      "name": "music/ffxiv/BGM_Battle_Mor_01.scd",
+      "sha1": "1c0c8b224896d3567d28ba51250cc49f65f7f6a5"
+    },
+    "146": {
+      "index": 146,
+      "name": "music/ffxiv/BGM_Con_Bahamut.scd",
+      "sha1": "857831f75d0f7bf5b37adcaa42ce3bf6a5c4a2f4"
+    },
+    "147": {
+      "index": 147,
+      "name": "music/ffxiv/BGM_Con_Bahamut_Boss.scd",
+      "sha1": "87f9aca1cffd744f7505d2dd231469d5a0a3db28"
+    },
+    "148": {
+      "index": 148,
+      "name": "music/ffxiv/BGM_Con_Teikoku_01.scd",
+      "sha1": "e0a346d306a35d05ffca0dbb354dd4429ebfc4ba"
+    },
+    "149": {
+      "index": 149,
+      "name": "music/ffxiv/BGM_Con_Teikoku_02.scd",
+      "sha1": "21ce3f37eb3482ecd9fb23ef6859cf1611ee3553"
+    },
+    "150": {
+      "index": 150,
+      "name": "music/ffxiv/BGM_Con_Altima.scd",
+      "sha1": "90ee89464dc1e67c8babe7cc4c9f5c7494f08839"
+    },
+    "151": {
+      "index": 151,
+      "name": "music/ffxiv/BGM_Con_Teikoku_Boss.scd",
+      "sha1": "49caf8da8dd60c70ca1eac92c026574bc33cebc6"
+    },
+    "152": {
+      "index": 152,
+      "name": "music/ffxiv/BGM_Con_Teikoku_Gaius.scd",
+      "sha1": "f284210ea711830f6edf0a5438ecb1ba33f1d49c"
+    },
+    "153": {
+      "index": 153,
+      "name": "music/ffxiv/BGM_Fate_Odin.scd",
+      "sha1": "a605b967c70e0a4db5b129f638207b73ac035abb"
+    },
+    "154": {
+      "index": 154,
+      "name": "music/ffxiv/BGM_Fate_HMN.scd",
+      "sha1": "e7498d87e690dbb4465e939d57504cb67ffac3db"
+    },
+    "155": {
+      "index": 155,
+      "name": "music/ffxiv/BGM_Ban_Garuda.scd",
+      "sha1": "16d9d519f7b17c694db019a1910899ce202859a0"
+    },
+    "156": {
+      "index": 156,
+      "name": "music/ffxiv/BGM_Ban_Titan.scd",
+      "sha1": "d029d1dc9f36467aa59e5bdd017bd89473d43b25"
+    },
+    "157": {
+      "index": 157,
+      "name": "music/ffxiv/BGM_Ban_Titan_pre1.scd",
+      "sha1": "0668d2cb1fadf83dd090047d73f2a58a61d67dd4"
+    },
+    "158": {
+      "index": 158,
+      "name": "music/ffxiv/BGM_Ban_Titan_pre2.scd",
+      "sha1": "63c45bae6a76f6a0cdb6e7aac9eb9f309e43237d"
+    },
+    "159": {
+      "index": 159,
+      "name": "music/ffxiv/BGM_Ban_Titan_pre3.scd",
+      "sha1": "efac33633768e3e91e3ef6be49ab220af2c7e923"
+    },
+    "160": {
+      "index": 160,
+      "name": "music/ffxiv/BGM_Ban_Titan_pre4.scd",
+      "sha1": "a8d9cc90b177b6ff113aa8e8499f2c44eb604eff"
+    },
+    "161": {
+      "index": 161,
+      "name": "music/ffxiv/BGM_Event_Escape.scd",
+      "sha1": "479adfeec9a4ab276925724195907ec6b5904b85"
+    },
+    "162": {
+      "index": 162,
+      "name": "music/ffxiv/BGM_Event_PerfectAltima.scd",
+      "sha1": "1661f1f6aefcbd28099a9eda3d8afa4c4621120a"
+    },
+    "163": {
+      "index": 163,
+      "name": "music/ffxiv/BGM_Fate_FFXIII01.scd",
+      "sha1": "ea8203a992b7f6687739261f79fb5d3e4b510b6d"
+    },
+    "164": {
+      "index": 164,
+      "name": "music/ffxiv/BGM_Fate_FFXIII02.scd",
+      "sha1": "d2be337da46c365a9661240e5048e3979619343c"
+    },
+    "165": {
+      "index": 165,
+      "name": "music/ffxiv/BGM_Con_Teikoku_01_Sido.scd",
+      "sha1": "28545ba22030c2077b5dff8416b63f22b3d1c92b"
+    },
+    "166": {
+      "index": 166,
+      "name": "music/ffxiv/BGM_FATE_Bombard.scd",
+      "sha1": "73fdfc0942ab589e80692e982e621f803131d4e5"
+    },
+    "167": {
+      "index": 167,
+      "name": "music/ffxiv/BGM_Field_Gri_01.scd",
+      "sha1": "b3edff2202fda9f0078a1f2901247587149d3071"
+    },
+    "168": {
+      "index": 168,
+      "name": "music/ffxiv/BGM_Field_Lim_01.scd",
+      "sha1": "78955a8076bc955e557e779a6ab6e340c8a39986"
+    },
+    "169": {
+      "index": 169,
+      "name": "music/ffxiv/BGM_Field_Uru_01.scd",
+      "sha1": "23a352fe5759e69f9b2d814b373a4e515946cb08"
+    },
+    "170": {
+      "index": 170,
+      "name": "music/ffxiv/BGM_Field_Mor_02.scd",
+      "sha1": "4781dc89dd5fa94048b52e4e5cc006f848904e11"
+    },
+    "171": {
+      "index": 171,
+      "name": "music/ffxiv/BGM_Fate_Bouei2.scd",
+      "sha1": "560557cffaf1b3f3b566c6c3816dd1d990f861ed"
+    },
+    "172": {
+      "index": 172,
+      "name": "music/ffxiv/BGM_Ride_CoolMount.scd",
+      "sha1": "4b215bdc1f476e4c5ebda82c8a5aa202eb0677f5"
+    },
+    "173": {
+      "index": 173,
+      "name": "music/ffxiv/BGM_Con_Ascian.scd",
+      "sha1": "09d605e17bea24d79e423fad88db8ec30ceda599"
+    },
+    "174": {
+      "index": 174,
+      "name": "music/ffxiv/BGM_Season_Halloween.scd",
+      "sha1": "4332d284aa31d436690111e50ebd35b3c8eac62d"
+    },
+    "175": {
+      "index": 175,
+      "name": "music/ffxiv/BGM_Season_Christmas.scd",
+      "sha1": "9821d5db761e9ec6e3d76e5494885a800def62a1"
+    },
+    "176": {
+      "index": 176,
+      "name": "music/ffxiv/BGM_Season_NewYear.scd",
+      "sha1": "f2b491d59824a7021819fec4bdebfc546f4c12ae"
+    },
+    "177": {
+      "index": 177,
+      "name": "music/ffxiv/BGM_Fate_FFXI01.scd",
+      "sha1": "10fca903dc4b71895d468669386d78a60741801a"
+    },
+    "178": {
+      "index": 178,
+      "name": "music/ffxiv/BGM_Ban_Moogle_Nomal.scd",
+      "sha1": "c4dac85f0fa70b3724b0961ec7b2e7d44cd6f415"
+    },
+    "179": {
+      "index": 179,
+      "name": "music/ffxiv/BGM_Ban_Moogle_King.scd",
+      "sha1": "08709333c56e22d080004845c7983dbfb7d4f53f"
+    },
+    "180": {
+      "index": 180,
+      "name": "music/ffxiv/BGM_Con_CrystalTower_01.scd",
+      "sha1": "7e5ed1a9f59790c6fcf2f85388ca9de2dea8433b"
+    },
+    "181": {
+      "index": 181,
+      "name": "music/ffxiv/BGM_Con_CrystalTower_Boss_01.scd",
+      "sha1": "491a0982b6cdeaf6107103a492ffdf1420b982b1"
+    },
+    "182": {
+      "index": 182,
+      "name": "music/ffxiv/BGM_Event_NextHildy.scd",
+      "sha1": "e8e9d105bae05a8dd3f95033734800373f42ab96"
+    },
+    "183": {
+      "index": 183,
+      "name": "music/ffxiv/BGM_Field_Mor_03.scd",
+      "sha1": "95cfb26b1cf4cc293b1745f173085242706628fe"
+    },
+    "184": {
+      "index": 184,
+      "name": "music/ffxiv/BGM_Field_Mor_04.scd",
+      "sha1": "1c56de5c80421c4355b42b1f42aad16794fdd945"
+    },
+    "185": {
+      "index": 185,
+      "name": "music/ffxiv/BGM_Dungeon_Lim_04.scd",
+      "sha1": "96ce1f4ddb18038d429c856bf9734f8e71361f24"
+    },
+    "186": {
+      "index": 186,
+      "name": "music/ffxiv/BGM_Field_Housing_Day.scd",
+      "sha1": "31039e3bd4b6d82a4ca9d725e77f44bb3d48a60a"
+    },
+    "187": {
+      "index": 187,
+      "name": "music/ffxiv/BGM_Field_Housing_Night.scd",
+      "sha1": "f639dab45751d58b66548f6bcf59e8e429e187be"
+    },
+    "188": {
+      "index": 188,
+      "name": "music/ffxiv/BGM_Field_BanColony_Sylph.scd",
+      "sha1": "a7fff0afa4cf5e89639c38e8979a8d0212fc3d46"
+    },
+    "189": {
+      "index": 189,
+      "name": "music/ffxiv/BGM_Field_BanColony_Amaruja.scd",
+      "sha1": "4550f3e29af602b691b16d70999951344985c6d9"
+    },
+    "190": {
+      "index": 190,
+      "name": "music/ffxiv/BGM_Event_Marvellous.scd",
+      "sha1": "ef3667e062b85e1249c878d8385e5c0025a337e9"
+    },
+    "191": {
+      "index": 191,
+      "name": "music/ffxiv/BGM_Event_Barbar.scd",
+      "sha1": "11f0f3c157589af9c35f43106785f020d0f95095"
+    },
+    "192": {
+      "index": 192,
+      "name": "music/ffxiv/BGM_Fate_FF2.scd",
+      "sha1": "1b63d62e67d67bf9dab7127a99f2b7d083e77f0e"
+    },
+    "193": {
+      "index": 193,
+      "name": "music/ffxiv/BGM_Ride_DEBUChocobo.scd",
+      "sha1": "c937b2d7e9e207e5b0a9f86f970b749ea46dd5be"
+    },
+    "194": {
+      "index": 194,
+      "name": "music/ffxiv/BGM_Field_BanColony_Kobold.scd",
+      "sha1": "411bd42e135d78f49352cfc2cbdb31f876281cc3"
+    },
+    "195": {
+      "index": 195,
+      "name": "music/ffxiv/BGM_Field_BanColony_Sahagin.scd",
+      "sha1": "bfad865896e95425db49d0c5873d6aec99f98f2e"
+    },
+    "196": {
+      "index": 196,
+      "name": "music/ffxiv/BGM_Season_Easter.scd",
+      "sha1": "1dd3be86e8486c1d3a92bdacfa219a0607ceb685"
+    },
+    "197": {
+      "index": 197,
+      "name": "music/ffxiv/BGM_Dungeon_Gri_05.scd",
+      "sha1": "f65415abf22766c1f20d416bea70d6c7ad69eddc"
+    },
+    "198": {
+      "index": 198,
+      "name": "music/ffxiv/BGM_Con_Neal.scd",
+      "sha1": "d09fc8d1bb895127ccabbe628820fcd8dbcf0efb"
+    },
+    "199": {
+      "index": 199,
+      "name": "music/ffxiv/BGM_Con_CarteneauBattle.scd",
+      "sha1": "246278fb717b7fb8e988659129fb0574f6f864fb"
+    },
+    "200": {
+      "index": 200,
+      "name": "music/ffxiv/BGM_Ban_Moogle_Goku.scd",
+      "sha1": "ae6f9b3fe648f065528351bb16d5debe8defa266"
+    },
+    "201": {
+      "index": 201,
+      "name": "music/ffxiv/BGM_Event_ClashOnTheBigBridge.scd",
+      "sha1": "3eb90f7fcb2e240ac7d8bd6470fd4317ea67113f"
+    },
+    "202": {
+      "index": 202,
+      "name": "music/ffxiv/BGM_Con_Bahamut_v2.scd",
+      "sha1": "2ce09cdd18dc6e0b066557a29053be7bd8d3e6b4"
+    },
+    "203": {
+      "index": 203,
+      "name": "music/ffxiv/BGM_Ban_Leviathan1.scd",
+      "sha1": "cc68963c0697ddd043a0fe6c054d3cc7c6fe3a8c"
+    },
+    "204": {
+      "index": 204,
+      "name": "music/ffxiv/BGM_Ban_Leviathan2.scd",
+      "sha1": "d7678731108c0cc8ed7732712821f25070ba64c6"
+    },
+    "205": {
+      "index": 205,
+      "name": "music/ffxiv/BGM_Event_Neal.scd",
+      "sha1": "d1972478454f456abaef7166981200cd37ef356d"
+    },
+    "206": {
+      "index": 206,
+      "name": "music/ffxiv/BGM_Boss_05.scd",
+      "sha1": "7bacafcfd647515eafadad3e4967bb5f580afbb6"
+    },
+    "207": {
+      "index": 207,
+      "name": "music/ffxiv/BGM_Dungeon_Gri_06.scd",
+      "sha1": "763b4a7f1f017a63adc126a005bad2a875372f73"
+    },
+    "208": {
+      "index": 208,
+      "name": "music/ffxiv/BGM_Dungeon_Lim_05.scd",
+      "sha1": "647d591d745305fbef1cf6381c22c7e5d6166cea"
+    },
+    "209": {
+      "index": 209,
+      "name": "music/ffxiv/BGM_Dungeon_Uru_06.scd",
+      "sha1": "ee92198c3f3c72def089aa5cc326c57192b508fc"
+    },
+    "210": {
+      "index": 210,
+      "name": "music/ffxiv/BGM_Dungeon_Uru_05.scd",
+      "sha1": "7e7a34670adb5ed3213ec636b9380e5d0f530055"
+    },
+    "211": {
+      "index": 211,
+      "name": "music/ffxiv/BGM_Event_Sad2.scd",
+      "sha1": "ab20cf97979481e426c4b5f1fd097be476cb4e98"
+    },
+    "212": {
+      "index": 212,
+      "name": "music/ffxiv/BGM_Event_UneDoga.scd",
+      "sha1": "07e3022b9cb6888b3e4bcca43c6a0fce054a75ea"
+    },
+    "214": {
+      "index": 214,
+      "name": "music/ffxiv/BGM_Season_SummerFes.scd",
+      "sha1": "92ca569e9f10914a673d5d9cfe5497061750f9b0"
+    },
+    "215": {
+      "index": 215,
+      "name": "music/ffxiv/BGM_Field_BanColony_Ixal.scd",
+      "sha1": "adff78464d747d1e9c9c2fe5272b8988c01c78e1"
+    },
+    "216": {
+      "index": 216,
+      "name": "music/ffxiv/BGM_Dungeon_Lim_06.scd",
+      "sha1": "c09865d186c60ac6d8dccdb6e9b899efc7a48173"
+    },
+    "217": {
+      "index": 217,
+      "name": "music/ffxiv/BGM_Dungeon_Gri_07.scd",
+      "sha1": "ff44592761d0cc5f746c35733ac564979e58e4d5"
+    },
+    "218": {
+      "index": 218,
+      "name": "music/ffxiv/BGM_Con_CrystalTower_02.scd",
+      "sha1": "f86fd2a28003c8403ea1022e47a5d3170aa0d968"
+    },
+    "219": {
+      "index": 219,
+      "name": "music/ffxiv/BGM_PvP_Intro.scd",
+      "sha1": "94c8f4fe1cce98634bf61cc8562707f0c2d18635"
+    },
+    "220": {
+      "index": 220,
+      "name": "music/ffxiv/BGM_PvP_Battle.scd",
+      "sha1": "0143bad19f1e786c2a4f67de0cd1285079832463"
+    },
+    "221": {
+      "index": 221,
+      "name": "music/ffxiv/BGM_Ban_Ramuh.scd",
+      "sha1": "0521ca34a9756d34f9b1c67db911f2bae5c8b8fc"
+    },
+    "222": {
+      "index": 222,
+      "name": "music/ffxiv/BGM_Minigame_Puzzle.scd",
+      "sha1": "525fb79044fdd805439bf11d0270a4e4e58041f1"
+    },
+    "223": {
+      "index": 223,
+      "name": "music/ffxiv/BGM_Event_Gendaishi.scd",
+      "sha1": "7a3697d15981d47fb0fa7ec077355060b824fbcb"
+    },
+    "224": {
+      "index": 224,
+      "name": "music/ffxiv/BGM_Event_ChocoboEducation.scd",
+      "sha1": "2b20193815f96248c26a20f0ba81d8f8b1764fde"
+    },
+    "225": {
+      "index": 225,
+      "name": "music/ffxiv/BGM_Event_IshKyoko.scd",
+      "sha1": "644d382ccc5a2066c65bb3d39bc93d7c48f0775f"
+    },
+    "226": {
+      "index": 226,
+      "name": "music/ffxiv/BGM_Season_Answers.scd",
+      "sha1": "83f0ab529d6758f14c12a24fe27b36f3de1267d2"
+    },
+    "227": {
+      "index": 227,
+      "name": "music/ffxiv/BGM_Ban_Odin.scd",
+      "sha1": "0c84de98aecf1e2415f2b2d8ccbd356abb4c2b03"
+    },
+    "228": {
+      "index": 228,
+      "name": "music/ffxiv/BGM_Season_Wedding.scd",
+      "sha1": "e43bae3506e6b0e3628969abcabce3e190f85832"
+    },
+    "229": {
+      "index": 229,
+      "name": "music/ffxiv/BGM_Field_Lim_Ninja.scd",
+      "sha1": "c62c307c206d46d37b4219d74abfba2d7af5bed6"
+    },
+    "230": {
+      "index": 230,
+      "name": "music/ffxiv/BGM_Ban_Shiva1.scd",
+      "sha1": "2c83b6af2a28978b3c291092a2016a7667beecdd"
+    },
+    "231": {
+      "index": 231,
+      "name": "music/ffxiv/BGM_Ban_Shiva2.scd",
+      "sha1": "96bca32f3aa69a27daf6dae8e9b68e3bfee86133"
+    },
+    "232": {
+      "index": 232,
+      "name": "music/ffxiv/BGM_Event_Orthros.scd",
+      "sha1": "4886fff159092db78c5d4cd5355064925975d384"
+    },
+    "233": {
+      "index": 233,
+      "name": "music/ffxiv/BGM_Dungeon_Ish_04.scd",
+      "sha1": "64aa21825a78c16e770cc259aea2bc7e0af69eca"
+    },
+    "234": {
+      "index": 234,
+      "name": "music/ffxiv/BGM_Dungeon_Uru_07.scd",
+      "sha1": "51c77bec2158ae9a033740cd0039b24eed958145"
+    },
+    "235": {
+      "index": 235,
+      "name": "music/ffxiv/BGM_Dungeon_Lim_07.scd",
+      "sha1": "bcca2747020050fd8a28ef419db4306695d551ac"
+    },
+    "236": {
+      "index": 236,
+      "name": "music/ffxiv/BGM_Con_Bahamut_Bigboss1.scd",
+      "sha1": "c47f400135b32d0498429bba63a83e74e4f1f6b0"
+    },
+    "237": {
+      "index": 237,
+      "name": "music/ffxiv/BGM_Con_Bahamut_Bigboss2.scd",
+      "sha1": "c3703d6b18879bef213eb49ce3dd44d7a503df8b"
+    },
+    "238": {
+      "index": 238,
+      "name": "music/ffxiv/BGM_Con_Bahamut_Bigboss3.scd",
+      "sha1": "8a842fef0ed795c086e5a9c9223d42978c900699"
+    },
+    "239": {
+      "index": 239,
+      "name": "music/ffxiv/BGM_Event_Bahamut_4thNC.scd",
+      "sha1": "7281b3f304ef181ddae7477ad8cf4599c1e3b697"
+    },
+    "240": {
+      "index": 240,
+      "name": "music/ffxiv/BGM_Con_Bahamut_Bigboss0.scd",
+      "sha1": "260b12f7cbf8510454d8d1fc7cbcf47c9f0ddeeb"
+    },
+    "241": {
+      "index": 241,
+      "name": "music/ffxiv/BGM_Event_UQ.scd",
+      "sha1": "651b0b8c6eb3ab24fb87f0b2ed3fcd0cf5c689a8"
+    },
+    "242": {
+      "index": 242,
+      "name": "music/ffxiv/BGM_Event_Enkidu.scd",
+      "sha1": "080a8581fa7939cc30b832146f9efaf49148120b"
+    },
+    "243": {
+      "index": 243,
+      "name": "music/ffxiv/BGM_Dungeon_Mor_01.scd",
+      "sha1": "92132b18100b267abb5e1947f9729456c8f9adde"
+    },
+    "244": {
+      "index": 244,
+      "name": "music/ffxiv/BGM_Dungeon_Mor_02.scd",
+      "sha1": "961bffef8d709fe21c1bd956d9485e392e1ed529"
+    },
+    "245": {
+      "index": 245,
+      "name": "music/ffxiv/BGM_Dungeon_Lim_08.scd",
+      "sha1": "b0e97893882bab51135b637ae73e9ba7481092b9"
+    },
+    "246": {
+      "index": 246,
+      "name": "music/ffxiv/BGM_Dungeon_Gri_08.scd",
+      "sha1": "6fbe4949983eea1810f20301b3224bd0e0e38970"
+    },
+    "247": {
+      "index": 247,
+      "name": "music/ffxiv/BGM_Con_CrystalTower_03.scd",
+      "sha1": "1eff8d7930d95815ae60486f0cf57e023b7be152"
+    },
+    "248": {
+      "index": 248,
+      "name": "music/ffxiv/BGM_Con_CrystalTower_Boss_02.scd",
+      "sha1": "22f05f24192e95ae5f5c3df76110c48cd4d06616"
+    },
+    "249": {
+      "index": 249,
+      "name": "music/ffxiv/BGM_Con_CrystalTower_Boss_03.scd",
+      "sha1": "aaf32a694832f8dbe2b210cb668ebf4f1379de73"
+    },
+    "250": {
+      "index": 250,
+      "name": "music/ffxiv/BGM_GlodSaucer_Lobby.scd",
+      "sha1": "6b3646bccbc02c2935153351c2252acb566853a7"
+    },
+    "251": {
+      "index": 251,
+      "name": "music/ffxiv/BGM_GlodSaucer_GATE.scd",
+      "sha1": "07521f1c5ce42eada0a76d3f565ca73e131c4251"
+    },
+    "252": {
+      "index": 252,
+      "name": "music/ffxiv/BGM_GlodSaucer_Race.scd",
+      "sha1": "6002ce859ce2cf61139136722225445c1c9a455c"
+    },
+    "253": {
+      "index": 253,
+      "name": "music/ffxiv/BGM_GlodSaucer_Triple.scd",
+      "sha1": "6daec17f7eec2f0d8e58f01272a6ffeea4394abf"
+    },
+    "254": {
+      "index": 254,
+      "name": "music/ffxiv/BGM_Con_Ish_01.scd",
+      "sha1": "60d74bae87080afc55bb497685c1941778948432"
+    },
+    "255": {
+      "index": 255,
+      "name": "music/ffxiv/BGM_Con_Ish_02.scd",
+      "sha1": "2960fdbf8088b5e64fb0d79d98b7f671dbdd12fb"
+    },
+    "256": {
+      "index": 256,
+      "name": "music/ffxiv/BGM_Boss_06.scd",
+      "sha1": "4b754f33db051906cf8e7601159793b65c660b27"
+    },
+    "257": {
+      "index": 257,
+      "name": "music/ffxiv/BGM_Boss_07.scd",
+      "sha1": "7f7b78bf7c81b85370720b5abe60d8577d2d2f8f"
+    },
+    "258": {
+      "index": 258,
+      "name": "music/ffxiv/BGM_ChocoboRace_Win1st.scd",
+      "sha1": "c478eb0d2b9a7a72545d23dac4b9bce0b9b2c8f5"
+    },
+    "259": {
+      "index": 259,
+      "name": "music/ffxiv/BGM_ChocoboRace_Win2nd.scd",
+      "sha1": "1ef72a6a50b09ffdce0facde1cd022b1ff1b875e"
+    },
+    "260": {
+      "index": 260,
+      "name": "music/ffxiv/BGM_ChocoboRace_Lose.scd",
+      "sha1": "cbf54ef54606db4de8b89000a78d8be1d48abf7f"
+    },
+    "261": {
+      "index": 261,
+      "name": "music/ffxiv/BGM_ChocoboRace_Fanfare.scd",
+      "sha1": "4058f5fbbd3e4e47d32fe990f6c45aaf5ee77cd1"
+    },
+    "262": {
+      "index": 262,
+      "name": "music/ffxiv/BGM_Ride_MagitekArmor.scd",
+      "sha1": "9071c96b9a6978746c2ae090d9ef3d292a76c870"
+    },
+    "263": {
+      "index": 263,
+      "name": "music/ffxiv/BGM_Ride_Odin.scd",
+      "sha1": "649e2c18fc0b303bca837b444a42a8e658bea25c"
+    },
+    "264": {
+      "index": 264,
+      "name": "music/ffxiv/BGM_Ride_Shiva.scd",
+      "sha1": "bc72ed09ce17b2b2e53e499695f182c4d49840c6"
+    },
+    "265": {
+      "index": 265,
+      "name": "music/ffxiv/BGM_Ride_Ramuh.scd",
+      "sha1": "c01d959fed2ca801159eb5da07d4e02e6ac043b3"
+    },
+    "266": {
+      "index": 266,
+      "name": "music/ffxiv/BGM_Ride_Leviathan.scd",
+      "sha1": "f614e8939fb748ad509b53d7935602c65f992956"
+    },
+    "267": {
+      "index": 267,
+      "name": "music/ffxiv/BGM_Ride_Titan.scd",
+      "sha1": "70db5f7225508dc98ba169ed8c464013e1636b3c"
+    },
+    "268": {
+      "index": 268,
+      "name": "music/ffxiv/BGM_Ride_Gruda.scd",
+      "sha1": "b667639c8e5d1461f99fb4599cc4e11cfdea3206"
+    },
+    "269": {
+      "index": 269,
+      "name": "music/ffxiv/BGM_Ride_Ifrit.scd",
+      "sha1": "d4af2e18242ccd95add5b717b267dc439d665354"
+    },
+    "270": {
+      "index": 270,
+      "name": "music/ex1/BGM_EX1_Null.scd",
+      "sha1": "727f1c9c0d826a73121f5121000149269de65311"
+    },
+    "271": {
+      "index": 271,
+      "name": "music/ex1/BGM_EX1_System_Title.scd",
+      "sha1": "2ebc74f1bfd826b57ece733dcdc011a91421880f"
+    },
+    "272": {
+      "index": 272,
+      "name": "music/ex1/BGM_EX1_EndCredit01.scd",
+      "sha1": "d063cc04093ebd251a46a75b97112e026556020f"
+    },
+    "273": {
+      "index": 273,
+      "name": "music/ex1/BGM_EX1_Field_Safe1.scd",
+      "sha1": "d5cff047102ec03f0863b8c6776b1f834e436ef5"
+    },
+    "274": {
+      "index": 274,
+      "name": "music/ex1/BGM_EX1_Field_Safe2.scd",
+      "sha1": "c7d5b017c1cecc6a45c31ad30f96247e571a71bb"
+    },
+    "275": {
+      "index": 275,
+      "name": "music/ex1/BGM_EX1_Town_Ish01_Day.scd",
+      "sha1": "2afff0e6507b7b2ed9546d4c34834868bfbe3265"
+    },
+    "276": {
+      "index": 276,
+      "name": "music/ex1/BGM_EX1_Town_Ish01_Night.scd",
+      "sha1": "9029601d19d0a59af9f2ae7f84d8177d435b59f4"
+    },
+    "277": {
+      "index": 277,
+      "name": "music/ex1/BGM_EX1_Town_Ish02_Day.scd",
+      "sha1": "c874fb6046fc9ea1ba722729442d53f275b42508"
+    },
+    "278": {
+      "index": 278,
+      "name": "music/ex1/BGM_EX1_Town_Ish02_Night.scd",
+      "sha1": "9e03cdada3add002506500abd098b158033a49bc"
+    },
+    "279": {
+      "index": 279,
+      "name": "music/ex1/BGM_EX1_Field_IshSebu02.scd",
+      "sha1": "0985b757ce9a37f14496a1b789e99834fdc9fd07"
+    },
+    "280": {
+      "index": 280,
+      "name": "music/ex1/BGM_EX1_Field_IshSebu03.scd",
+      "sha1": "27f63a9fdb727412e38c3d9f618b2b2d449088e4"
+    },
+    "281": {
+      "index": 281,
+      "name": "music/ex1/BGM_EX1_Battle_IshSebu_01.scd",
+      "sha1": "fae47eff42c54dfa19ddeaea2ed6b4fbe53ff0c0"
+    },
+    "282": {
+      "index": 282,
+      "name": "music/ex1/BGM_EX1_Field_DravaniaH02.scd",
+      "sha1": "35f3976ea57b5acb0b341cba77119b57f981c37d"
+    },
+    "283": {
+      "index": 283,
+      "name": "music/ex1/BGM_EX1_Field_DravaniaH03.scd",
+      "sha1": "292bed392e87c43c60c27be9290d381ad096dc11"
+    },
+    "284": {
+      "index": 284,
+      "name": "music/ex1/BGM_EX1_Battle_DravaniaH_01.scd",
+      "sha1": "a6a9e7912e93d421fb3c9d5b2d975221624bd0e4"
+    },
+    "285": {
+      "index": 285,
+      "name": "music/ex1/BGM_EX1_Field_DravaniaL02.scd",
+      "sha1": "2678f1ded36789c00a649cc8b18ad212523f3983"
+    },
+    "286": {
+      "index": 286,
+      "name": "music/ex1/BGM_EX1_Field_DravaniaL03.scd",
+      "sha1": "e0f976491fe5b30bea4b4f8835562f1191544da5"
+    },
+    "287": {
+      "index": 287,
+      "name": "music/ex1/BGM_EX1_Battle_DravaniaL_01.scd",
+      "sha1": "6664b91f11e4c3f4e617ff83d259e5957ff76a61"
+    },
+    "288": {
+      "index": 288,
+      "name": "music/ex1/BGM_EX1_Field_DravaniaC02.scd",
+      "sha1": "1dab9e5d5990be5408cb71afcc38f9f31047a57c"
+    },
+    "289": {
+      "index": 289,
+      "name": "music/ex1/BGM_EX1_Field_DravaniaC03.scd",
+      "sha1": "e9ee6d43c81cc5eee749ee451d304d7d82327f60"
+    },
+    "290": {
+      "index": 290,
+      "name": "music/ex1/BGM_EX1_Battle_DravaniaC_01.scd",
+      "sha1": "5c0ccccb6645c36dad27ed2cf74025ad670be2c5"
+    },
+    "291": {
+      "index": 291,
+      "name": "music/ex1/BGM_EX1_Field_Abaracia02.scd",
+      "sha1": "f80a11b4d605719e130d8ec391a616afd7199aba"
+    },
+    "292": {
+      "index": 292,
+      "name": "music/ex1/BGM_EX1_Field_Abaracia03.scd",
+      "sha1": "e3b77af9f182b52777a0e528ae91d096e487f34a"
+    },
+    "293": {
+      "index": 293,
+      "name": "music/ex1/BGM_EX1_Battle_Abaracia_01.scd",
+      "sha1": "5560fa22398a625566d58313aeb55b5e7b9ef141"
+    },
+    "294": {
+      "index": 294,
+      "name": "music/ex1/BGM_EX1_Field_MagicC02.scd",
+      "sha1": "c7ccafcb3c34b4680abef6008f5b3f6120fb818a"
+    },
+    "295": {
+      "index": 295,
+      "name": "music/ex1/BGM_EX1_Battle_MagicC_01.scd",
+      "sha1": "3f3858b06ec1c679f0a862898366056fd1d33825"
+    },
+    "296": {
+      "index": 296,
+      "name": "music/ex1/BGM_EX1_Rest_Sharean.scd",
+      "sha1": "de322674a299141c303d31036d66a7c08903b5cd"
+    },
+    "297": {
+      "index": 297,
+      "name": "music/ex1/BGM_EX1_Rest_Sharean_Night.scd",
+      "sha1": "fb98596d0ea11aed8b417d6dc67ff289e2e348d4"
+    },
+    "298": {
+      "index": 298,
+      "name": "music/ex1/BGM_EX1_Rest_Matoya.scd",
+      "sha1": "d3d57837849d4877fd7edf4d3780ca9278990dc0"
+    },
+    "299": {
+      "index": 299,
+      "name": "music/ex1/BGM_EX1_Dungeon_IshSebu_01.scd",
+      "sha1": "7232a34a333fff7b91702d7a2a5610de8b94dc1e"
+    },
+    "300": {
+      "index": 300,
+      "name": "music/ex1/BGM_EX1_Dungeon_Abaracia_01.scd",
+      "sha1": "ae834c1679393d6b13db3a7e9e19fa45f5a1aa43"
+    },
+    "301": {
+      "index": 301,
+      "name": "music/ex1/BGM_EX1_Dungeon_DravaniaH_01.scd",
+      "sha1": "96639944af755975dbd00edac32235de11ccc504"
+    },
+    "302": {
+      "index": 302,
+      "name": "music/ex1/BGM_EX1_Dungeon_DravaniaC_01.scd",
+      "sha1": "983a21cf19b68fe3d6db9edeb328316c95d00b5b"
+    },
+    "303": {
+      "index": 303,
+      "name": "music/ex1/BGM_EX1_Dungeon_DravaniaL_01.scd",
+      "sha1": "4be2eb29c98d9d7eca57eb914e6873d57534ec07"
+    },
+    "304": {
+      "index": 304,
+      "name": "music/ex1/BGM_EX1_Dungeon_MagicC_01.scd",
+      "sha1": "0e33f619c7d07c6d3274ac6d5934f4c4936cba0a"
+    },
+    "305": {
+      "index": 305,
+      "name": "music/ex1/BGM_EX1_Dungeon_Kyoko.scd",
+      "sha1": "c2a87d5c3113678382b185aa7c111e6ae4d57117"
+    },
+    "306": {
+      "index": 306,
+      "name": "music/ex1/BGM_EX1_Dungeon_Kyoko_2.scd",
+      "sha1": "5cc8ace0db3b172afbeeb6d3a4ae736289ecae6c"
+    },
+    "307": {
+      "index": 307,
+      "name": "music/ex1/BGM_EX1_Dungeon_Kyoko_3.scd",
+      "sha1": "09dd43c90b8df4322475b3614ace7a442012c5cd"
+    },
+    "308": {
+      "index": 308,
+      "name": "music/ex1/BGM_EX1_Dungeon_MagicC_02.scd",
+      "sha1": "8a0e711345623b1de940715b7c349663556aae9b"
+    },
+    "309": {
+      "index": 309,
+      "name": "music/ex1/BGM_EX1_Boss_01.scd",
+      "sha1": "f7f0a06492eb789efd675c032350ee321d57ee40"
+    },
+    "310": {
+      "index": 310,
+      "name": "music/ex1/BGM_EX1_Ban_Ravana_01.scd",
+      "sha1": "b4e9bc41b48463e7b1945fb354ca05762a61c113"
+    },
+    "311": {
+      "index": 311,
+      "name": "music/ex1/BGM_EX1_Ban_Bismark_01.scd",
+      "sha1": "3b35fde96ca2e24e97327ea7af94995a6bed9aa6"
+    },
+    "312": {
+      "index": 312,
+      "name": "music/ex1/BGM_EX1_Boss02.scd",
+      "sha1": "dca0646e27c557587be0d82a10ccb8f8a28a5113"
+    },
+    "313": {
+      "index": 313,
+      "name": "music/ex1/BGM_EX1_Event_DragonWar.scd",
+      "sha1": "732a8c327341f9375093ea14ba88fab0c19698a0"
+    },
+    "314": {
+      "index": 314,
+      "name": "music/ex1/BGM_EX1_Event_Dragon.scd",
+      "sha1": "db3fd2bc803620f1fea73d5c228ab310eb495c5c"
+    },
+    "315": {
+      "index": 315,
+      "name": "music/ex1/BGM_EX1_Event_Soten.scd",
+      "sha1": "d2ce0a102d373cad9b5c7ae4b59aa1f88eb914f4"
+    },
+    "316": {
+      "index": 316,
+      "name": "music/ex1/BGM_EX1_Event_IshWar.scd",
+      "sha1": "d041f4d0cd9553cc9d005cba1cf51f38fb81294d"
+    },
+    "317": {
+      "index": 317,
+      "name": "music/ex1/BGM_EX1_Event_Strategy.scd",
+      "sha1": "8444944f2cdcc03fd93ed899a5d4cbe8d9876823"
+    },
+    "318": {
+      "index": 318,
+      "name": "music/ex1/BGM_EX1_Event_Start.scd",
+      "sha1": "fee419b9f08be09d72197e464f3e6029274ee01d"
+    },
+    "319": {
+      "index": 319,
+      "name": "music/ffxiv/BGM_EX1_Ride_FlyingMount.scd",
+      "sha1": "74922bcd70b73d89f53d95d28bbf0808536bc537"
+    },
+    "320": {
+      "index": 320,
+      "name": "music/ex1/BGM_EX1_Event_IshDragonHead.scd",
+      "sha1": "a829f217fe29c09f88b166b432dcd80c8cf889ef"
+    },
+    "321": {
+      "index": 321,
+      "name": "music/ex1/BGM_EX1_FATE01.scd",
+      "sha1": "3595ea0babbdcd8c7affdb78c27f764cb89abd33"
+    },
+    "322": {
+      "index": 322,
+      "name": "music/ex1/BGM_EX1_Event_Moogle.scd",
+      "sha1": "c0a037875dd38a59af10548a93829a16e1389dd1"
+    },
+    "323": {
+      "index": 323,
+      "name": "music/ex1/BGM_EX1_Alex01.scd",
+      "sha1": "1e7812c93e3b163c4497591fa0e28c1ecb93af4d"
+    },
+    "324": {
+      "index": 324,
+      "name": "music/ex1/BGM_EX1_Alex02.scd",
+      "sha1": "23cb47be169ca7d014cbf1985b119d5063591fed"
+    },
+    "325": {
+      "index": 325,
+      "name": "music/ex1/BGM_EX1_Ban_Ravana_02.scd",
+      "sha1": "908246304c0f0665fb4c05a492f91e242a686445"
+    },
+    "326": {
+      "index": 326,
+      "name": "music/ex1/BGM_EX1_Ban_Bismark_02.scd",
+      "sha1": "98fbc2c3359eb8cd40143524ef1ad84f8c868e26"
+    },
+    "327": {
+      "index": 327,
+      "name": "music/ex1/BGM_EX1_Alex03.scd",
+      "sha1": "7f4fa4413438581379bb005ce38a1f5e71e45dca"
+    },
+    "328": {
+      "index": 328,
+      "name": "music/ffxiv/BGM_Field_Workshop.scd",
+      "sha1": "9e7a62928af5eb305773bc7b1c675c41ea45b759"
+    },
+    "329": {
+      "index": 329,
+      "name": "music/ex1/BGM_EX1_Dungeon_Kyoko_0.scd",
+      "sha1": "a5821a6d38e787334eb3226de89a6e69787708b5"
+    },
+    "330": {
+      "index": 330,
+      "name": "music/ffxiv/BGM_Ride_Broom.scd",
+      "sha1": "407dc9c09ab8e243d751250d168d65cf907de8db"
+    },
+    "331": {
+      "index": 331,
+      "name": "music/ffxiv/BGM_Ride_MagitekSpecial.scd",
+      "sha1": "d8a953501afeb36badc84cd4463a51d0f06a7640"
+    },
+    "332": {
+      "index": 332,
+      "name": "music/ffxiv/BGM_Event_FFXI01.scd",
+      "sha1": "5fbcbe4a62f93984a516c73425c6e8b4d4056958"
+    },
+    "333": {
+      "index": 333,
+      "name": "music/ffxiv/BGM_Event_FFXI02.scd",
+      "sha1": "4ac3605c24e5b9d2b144f9d967516132dd44dfc9"
+    },
+    "334": {
+      "index": 334,
+      "name": "music/ffxiv/BGM_Event_FFXI03.scd",
+      "sha1": "bf876db17fa117924e492f3d356f6899f0bf710b"
+    },
+    "335": {
+      "index": 335,
+      "name": "music/ffxiv/BGM_Event_FFXI04.scd",
+      "sha1": "74e5dc7ecbc58efb1bf65dd5ec9f9daf7721ed54"
+    },
+    "336": {
+      "index": 336,
+      "name": "music/ffxiv/BGM_Event_FFXI05.scd",
+      "sha1": "953c96904ffd456455ec4b067eb4f85c2618d4c2"
+    },
+    "337": {
+      "index": 337,
+      "name": "music/ffxiv/BGM_Event_FFXI06.scd",
+      "sha1": "b54d43f6e11493495df248ca2a30b69c7afd2aeb"
+    },
+    "338": {
+      "index": 338,
+      "name": "music/ex1/BGM_EX1_Event_Hildy.scd",
+      "sha1": "8d1d1b2d24156b6836d43bbd8a27bb5af3cd8859"
+    },
+    "339": {
+      "index": 339,
+      "name": "music/ex1/BGM_EX1_BanFort_Banu_Bad.scd",
+      "sha1": "d03339d4e7f96c0a2872abc8da7055413db8004b"
+    },
+    "340": {
+      "index": 340,
+      "name": "music/ex1/BGM_EX1_BanFort_Banu_Good.scd",
+      "sha1": "e4dddbcb624de6b58fc9687ad820c52a6e29a866"
+    },
+    "341": {
+      "index": 341,
+      "name": "music/ex1/BGM_EX1_Boss03.scd",
+      "sha1": "093fd27be09121227ea939903b5bea9979dafa9b"
+    },
+    "342": {
+      "index": 342,
+      "name": "music/ex1/BGM_EX1_Sorashima_Field.scd",
+      "sha1": "bbb942a46f05f23ba5968a05dc282b747dd2de19"
+    },
+    "343": {
+      "index": 343,
+      "name": "music/ex1/BGM_EX1_Sorashima_Battle.scd",
+      "sha1": "638546e206c2de87a0e80c9200ed134477745b3a"
+    },
+    "344": {
+      "index": 344,
+      "name": "music/ex1/BGM_EX1_Sorashima_Boss.scd",
+      "sha1": "599760ce2ec94de926de2b577b9d2fe1261b7d95"
+    },
+    "345": {
+      "index": 345,
+      "name": "music/ex1/BGM_EX1_Dungeon_botanical_gardens.scd",
+      "sha1": "b759950fdfe0e370639586643fb48e456776da30"
+    },
+    "346": {
+      "index": 346,
+      "name": "music/ex1/BGM_EX1_Dungeon_Sirius_Lighthouse.scd",
+      "sha1": "7e000c3197e0c7ca9685c7bf800188f2b9dc8917"
+    },
+    "347": {
+      "index": 347,
+      "name": "music/ex1/BGM_EX1_Makosen_Nomal.scd",
+      "sha1": "419a19441063c2db40876a29f90d5c0b29ded106"
+    },
+    "348": {
+      "index": 348,
+      "name": "music/ex1/BGM_EX1_Makosen_Boss01.scd",
+      "sha1": "e4b75fa87b0940514fa8099d071c988abb6139c0"
+    },
+    "349": {
+      "index": 349,
+      "name": "music/ffxiv/BGM_LoV_Nomal.scd",
+      "sha1": "4f8c189ef9755e395dc67ee5bf2dda2fee691628"
+    },
+    "350": {
+      "index": 350,
+      "name": "music/ffxiv/BGM_LoV_Boss01.scd",
+      "sha1": "ee116bcdc06b79ba5ce8c6df225f3d255af0ae27"
+    },
+    "351": {
+      "index": 351,
+      "name": "music/ffxiv/BGM_LoV_Boss02.scd",
+      "sha1": "9eef77fb5a7b0634d5d832dd3838876e794fa1c0"
+    },
+    "352": {
+      "index": 352,
+      "name": "music/ffxiv/BGM_LoV_Boss03.scd",
+      "sha1": "def5a46a1e4ed338651a97b2c2d7e5a38ac23def"
+    },
+    "353": {
+      "index": 353,
+      "name": "music/ffxiv/BGM_LoV_Boss04.scd",
+      "sha1": "233e1884ecd8192f2516fca98124cf8758da6a88"
+    },
+    "354": {
+      "index": 354,
+      "name": "music/ffxiv/BGM_LoV_Boss05.scd",
+      "sha1": "a9a361fa4a79fb4f05c17944265bb85b8718972d"
+    },
+    "355": {
+      "index": 355,
+      "name": "music/ffxiv/BGM_LoV_Boss06.scd",
+      "sha1": "99161cc0f9800aef55dfbaf670839c7238cf4a66"
+    },
+    "356": {
+      "index": 356,
+      "name": "music/ffxiv/BGM_LoV_Boss07.scd",
+      "sha1": "7720feb1822c79192a9f95ba9fd3f75e50786b86"
+    },
+    "357": {
+      "index": 357,
+      "name": "music/ffxiv/BGM_LoV_Boss08.scd",
+      "sha1": "7150064a8b0c5326d071fe93e6da9a787760349b"
+    },
+    "358": {
+      "index": 358,
+      "name": "music/ffxiv/BGM_Ride_Kirin.scd",
+      "sha1": "47dd855670276b3c02699b0341f4f7eb1c952740"
+    },
+    "359": {
+      "index": 359,
+      "name": "music/ffxiv/BGM_Season_VT.scd",
+      "sha1": "c353e67b5b6b79be86e0464f493de33a20fd1fab"
+    },
+    "360": {
+      "index": 360,
+      "name": "music/ffxiv/BGM_Season_Hina.scd",
+      "sha1": "b1dd11a3b9bf73b5eaf1057c9eedbd6bf09de887"
+    },
+    "361": {
+      "index": 361,
+      "name": "music/ex1/BGM_EX1_Dungeon_DravaniaL_02.scd",
+      "sha1": "53878be9ec6a8f8934315bd252f2d94070457535"
+    },
+    "362": {
+      "index": 362,
+      "name": "music/ex1/BGM_EX1_Dungeon_DravaniaL_03.scd",
+      "sha1": "f3c5f2db84166f29e838591e32ee72098f526e57"
+    },
+    "363": {
+      "index": 363,
+      "name": "music/ex1/BGM_EX1_BanFort_Gunasu_Bad.scd",
+      "sha1": "6b0ce54c9b4be83cf4e706955c208ee6cbdae7f5"
+    },
+    "364": {
+      "index": 364,
+      "name": "music/ex1/BGM_EX1_BanFort_Gunasu_Good.scd",
+      "sha1": "74217b485e618ad52acf9ae5c5636904f2c7915d"
+    },
+    "365": {
+      "index": 365,
+      "name": "music/ex1/BGM_EX1_Ban_Sephiroth01.scd",
+      "sha1": "7ca2a7f9ad927ab17546d73a918b5d26dcf19f76"
+    },
+    "366": {
+      "index": 366,
+      "name": "music/ex1/BGM_EX1_Ban_Sephiroth02.scd",
+      "sha1": "144d366a9eda2bca5d4f5ad25480f8dade81b404"
+    },
+    "367": {
+      "index": 367,
+      "name": "music/ffxiv/BGM_EX1_PvP01.scd",
+      "sha1": "c9496322587220d571a351dfc70d3971936c4f0f"
+    },
+    "368": {
+      "index": 368,
+      "name": "music/ex1/BGM_EX1_Dungeon_Komuda2.scd",
+      "sha1": "a5fff1f89a70e138da3d670b9d0f6626ddc1ba20"
+    },
+    "369": {
+      "index": 369,
+      "name": "music/ex1/BGM_EX1_Alex04.scd",
+      "sha1": "5014a32ab458696029bc192b6ae8ce26ec715123"
+    },
+    "370": {
+      "index": 370,
+      "name": "music/ex1/BGM_EX1_Alex05.scd",
+      "sha1": "fd046ce284abb3eadde3864432a9cf843c594af0"
+    },
+    "371": {
+      "index": 371,
+      "name": "music/ffxiv/BGM_Ride_Bismark.scd",
+      "sha1": "4a257ba42bb8f9b48b8b1f8f1f2055318c20667f"
+    },
+    "372": {
+      "index": 372,
+      "name": "music/ffxiv/BGM_Ride_Ravana.scd",
+      "sha1": "58981201e8bf3e07fb833c69dae64912ae9574ec"
+    },
+    "373": {
+      "index": 373,
+      "name": "music/ffxiv/BGM_Ride_KoR.scd",
+      "sha1": "408757458f915a7fade98d1700c570361c324848"
+    },
+    "374": {
+      "index": 374,
+      "name": "music/ffxiv/BGM_Ride_Sephiroth.scd",
+      "sha1": "4a253ab366a3152aff76e9bbcf4557ba5e9f3a5b"
+    },
+    "375": {
+      "index": 375,
+      "name": "music/ffxiv/BGM_Beginner01.scd",
+      "sha1": "543cb41b5dfa15fe42354b79d4368f57b13dd10b"
+    },
+    "376": {
+      "index": 376,
+      "name": "music/ffxiv/BGM_Ride_Bennu.scd",
+      "sha1": "225cbb71713422bc5f8619aa41e52d1f163e4ecc"
+    },
+    "377": {
+      "index": 377,
+      "name": "music/ex1/BGM_EX1_Event_Nidhogg_01.scd",
+      "sha1": "84d3715f648c27b0122f76a1a46d07d9edca1797"
+    },
+    "378": {
+      "index": 378,
+      "name": "music/ex1/BGM_EX1_Event_Nidhogg_02.scd",
+      "sha1": "a82b01a015581ecae9c8fca702d089c5c93dde23"
+    },
+    "379": {
+      "index": 379,
+      "name": "music/ex1/BGM_EX1_Event_Nidhogg_03.scd",
+      "sha1": "29def33bffc8ecbd4a4fed80ed73a0ce8d6d2a44"
+    },
+    "380": {
+      "index": 380,
+      "name": "music/ffxiv/BGM_Season_SummerFes02.scd",
+      "sha1": "d3fb5ddef3c21d274fba655dc81d6c35863af421"
+    },
+    "381": {
+      "index": 381,
+      "name": "music/ex1/BGM_EX1_Field_SkyPirates.scd",
+      "sha1": "27e3c5f2fe5f847a722487c33609201a8ddc819a"
+    },
+    "382": {
+      "index": 382,
+      "name": "music/ex1/BGM_EX1_Ban_Nidhogg_01.scd",
+      "sha1": "b61904cf7b6fcc68480481a5f02f390cc4f7a356"
+    },
+    "383": {
+      "index": 383,
+      "name": "music/ex1/BGM_EX1_Ban_Nidhogg_02.scd",
+      "sha1": "83ad719ac69312bae99f01e9e3e1d29490302310"
+    },
+    "384": {
+      "index": 384,
+      "name": "music/ex1/BGM_EX1_Ban_Nidhogg_03.scd",
+      "sha1": "2c797b878195919475260d69cef181f39e103a4d"
+    },
+    "385": {
+      "index": 385,
+      "name": "music/ex1/BGM_EX1_Boss04.scd",
+      "sha1": "92b6d879673a78bc1da947252951851de624b04c"
+    },
+    "386": {
+      "index": 386,
+      "name": "music/ex1/BGM_EX1_Dungeon_DravaniaC_02.scd",
+      "sha1": "f1cebea07dfb962f1c95f4bb0046b1e2ac0f6569"
+    },
+    "387": {
+      "index": 387,
+      "name": "music/ex1/BGM_EX1_Dungeon_Hullbreaker_Hard.scd",
+      "sha1": "4e443f4af42f1fb3d8f8f30a662f841c7bad499a"
+    },
+    "388": {
+      "index": 388,
+      "name": "music/ffxiv/BGM_Dungeon_Treasure.scd",
+      "sha1": "5052c7a68c84bb26ee3ad29756f9bfaa1ecbf423"
+    },
+    "389": {
+      "index": 389,
+      "name": "music/ffxiv/BGM_Dungeon_Deep01.scd",
+      "sha1": "32331f379c931173a72a13453d58c0f360ac6a15"
+    },
+    "390": {
+      "index": 390,
+      "name": "music/ffxiv/BGM_Dungeon_Deep02.scd",
+      "sha1": "724070b3b24657af2b213b898e939b78eadcbe2b"
+    },
+    "391": {
+      "index": 391,
+      "name": "music/ffxiv/BGM_Dungeon_Deep03.scd",
+      "sha1": "bd5d6f557e24193906d5ef45882996c034387234"
+    },
+    "392": {
+      "index": 392,
+      "name": "music/ffxiv/BGM_Dungeon_DeepBoss01.scd",
+      "sha1": "cc80df13bc724a7fe05a6675f2b916786f8db91e"
+    },
+    "393": {
+      "index": 393,
+      "name": "music/ex1/BGM_EX1_Makosen_Nomal02.scd",
+      "sha1": "d8eada0ed672fecf4f57b1d942d9c3821c77b4f8"
+    },
+    "394": {
+      "index": 394,
+      "name": "music/ex1/BGM_EX1_Makosen_Boss02.scd",
+      "sha1": "1a3b6a017c394912053a0b043b2772024b0a814c"
+    },
+    "395": {
+      "index": 395,
+      "name": "music/ffxiv/BGM_Ride_Nidhogg.scd",
+      "sha1": "79f5f6b8afb7742db81e4ac407cd7da58f6b1ebd"
+    },
+    "396": {
+      "index": 396,
+      "name": "music/ffxiv/BGM_Ride_Mogle.scd",
+      "sha1": "8db220eab935578203e8414c0ec5cc95d9939124"
+    },
+    "397": {
+      "index": 397,
+      "name": "music/ffxiv/BGM_Ride_Alex.scd",
+      "sha1": "6f59f73b907eb2e01356ef610d3e70b7ab37e471"
+    },
+    "398": {
+      "index": 398,
+      "name": "music/ex1/BGM_EX1_Event_Fortemps.scd",
+      "sha1": "e1ba11d0d756082ad57c4e33c0ec45789d06ea9e"
+    },
+    "399": {
+      "index": 399,
+      "name": "music/ffxiv/BGM_Dungeon_Deep00.scd",
+      "sha1": "a816fc4de78b23a63b9f93caeb97d8cc5b0b097c"
+    },
+    "400": {
+      "index": 400,
+      "name": "music/ffxiv/BGM_Event_Odayaka.scd",
+      "sha1": "9770a5ada281ee87b6f2c3b819ae80a08ceb73e7"
+    },
+    "401": {
+      "index": 401,
+      "name": "music/ex1/BGM_EX1_Event_Nivas.scd",
+      "sha1": "96f5fe1d6b5abeee1209b7709efa452fe590a1ee"
+    },
+    "402": {
+      "index": 402,
+      "name": "music/ex1/BGM_EX1_Ban_Sophia.scd",
+      "sha1": "34166fd31cab0bb18de815e4e6f78e17a501c297"
+    },
+    "403": {
+      "index": 403,
+      "name": "music/ffxiv/BGM_PvP_Duel.scd",
+      "sha1": "0df8229e07a58614e3737bf8dbbf316ade6a77fd"
+    },
+    "404": {
+      "index": 404,
+      "name": "music/ffxiv/BGM_Ban_Altema.scd",
+      "sha1": "125d20cdaf0154566b44748bee73dcfd6906efca"
+    },
+    "405": {
+      "index": 405,
+      "name": "music/ex1/BGM_EX1_Dungeon_Xelphatol.scd",
+      "sha1": "79c1949f6c258c59aefe6ffebf61c6494c20b82f"
+    },
+    "406": {
+      "index": 406,
+      "name": "music/ex1/BGM_EX1_Boss05.scd",
+      "sha1": "b21b18945436f721ca92c3a88bea677d40bca4ec"
+    },
+    "407": {
+      "index": 407,
+      "name": "music/ex1/BGM_EX1_Dungeon_DravaniaL_04.scd",
+      "sha1": "a01434f4f626496c7f4ca138517bca60e0625a4d"
+    },
+    "408": {
+      "index": 408,
+      "name": "music/ffxiv/BGM_Season_HalloweenD.scd",
+      "sha1": "4394ec1a85edc593bce6de82dcda1e38a848ccf9"
+    },
+    "409": {
+      "index": 409,
+      "name": "music/ex1/BGM_EX1_Deep01.scd",
+      "sha1": "4543ace1d709ee9f83846b3be7e28eb4256cff85"
+    },
+    "410": {
+      "index": 410,
+      "name": "music/ex1/BGM_EX1_Deep02.scd",
+      "sha1": "cf9f2c65b1397173140683ee24620b9c126f73e7"
+    },
+    "411": {
+      "index": 411,
+      "name": "music/ex1/BGM_EX1_Alex06.scd",
+      "sha1": "5c09e043b6e4b9f0a1d3eba7b9fe4d77d9bbb535"
+    },
+    "412": {
+      "index": 412,
+      "name": "music/ex1/BGM_EX1_Alex07.scd",
+      "sha1": "b17ecc54b8e44afbd04f1a7fad806a3d75e956d9"
+    },
+    "413": {
+      "index": 413,
+      "name": "music/ex1/BGM_EX1_Alex08.scd",
+      "sha1": "c3299b861aa75bbe01751fa557c5a2528585207e"
+    },
+    "414": {
+      "index": 414,
+      "name": "music/ex1/BGM_EX1_Alex09.scd",
+      "sha1": "8a088d4ee91d367ef29685ea0a3ccea97d1e6b13"
+    },
+    "415": {
+      "index": 415,
+      "name": "music/ffxiv/BGM_Ride_Sophia.scd",
+      "sha1": "5cdc65d9e0619db572115bd3eaa88bfd10e6d472"
+    },
+    "416": {
+      "index": 416,
+      "name": "music/ffxiv/BGM_Ride_Alex2.scd",
+      "sha1": "3c8323677f9f46805d75f02e5a29f35fb6efd2c9"
+    },
+    "417": {
+      "index": 417,
+      "name": "music/ex1/BGM_EX1_Ban_Demon_02.scd",
+      "sha1": "2ae00430fb15966ad2b44a0a514f521e77821c6a"
+    },
+    "418": {
+      "index": 418,
+      "name": "music/ex1/BGM_EX1_Event_vs.scd",
+      "sha1": "5a48e36a84e05393e6217dfd6e9d3b96d8257ab9"
+    },
+    "419": {
+      "index": 419,
+      "name": "music/ex1/BGM_EX1_Ban_Demon.scd",
+      "sha1": "0ff7bda28dff45153cbc218b4cbd4decc7ff4d3b"
+    },
+    "420": {
+      "index": 420,
+      "name": "music/ex1/BGM_EX1_Dungeon_Gri_09.scd",
+      "sha1": "c247c5d5ab52166c798359bc10834280fe973c14"
+    },
+    "421": {
+      "index": 421,
+      "name": "music/ex1/BGM_EX1_Dungeon_DravaniaH_02.scd",
+      "sha1": "00703b85b102508bf5f9f2e6628b0babcdf7691a"
+    },
+    "422": {
+      "index": 422,
+      "name": "music/ex1/BGM_EX1_Makosen_Field01.scd",
+      "sha1": "49d9cbed95480736b02a7b318a1d2933d6e7dbb5"
+    },
+    "423": {
+      "index": 423,
+      "name": "music/ex1/BGM_EX1_Makosen_Field02.scd",
+      "sha1": "c8c54007987c5b9a7022f9d1f026738bdda3b60f"
+    },
+    "424": {
+      "index": 424,
+      "name": "music/ffxiv/BGM_Ride_Demon.scd",
+      "sha1": "879d978a124bb55fbd2aa51dca311c34bc225527"
+    },
+    "425": {
+      "index": 425,
+      "name": "music/ffxiv/BGM_Ride_Bcomp.scd",
+      "sha1": "9b1fac955a5bcbc5943ccc7273eada32b577dd04"
+    },
+    "426": {
+      "index": 426,
+      "name": "music/ex1/BGM_EX1_Event_Answers.scd",
+      "sha1": "5f8b78cea80b95bd1ff007422d96a93eba4134f7"
+    },
+    "427": {
+      "index": 427,
+      "name": "music/ex2/BGM_EX2_Null.scd",
+      "sha1": "22d32b0c8013e0633cc4386f04d398b00653a5e9"
+    },
+    "428": {
+      "index": 428,
+      "name": "music/ex2/BGM_EX2_System_Title.scd",
+      "sha1": "1290766bf6bcbb1c9dc2ebe77244b725d7572f71"
+    },
+    "429": {
+      "index": 429,
+      "name": "music/ex2/BGM_EX2_EndCredit01.scd",
+      "sha1": "d6ddf05a9c893a6f6dd0ef6f94060a9d2bc4ff06"
+    },
+    "430": {
+      "index": 430,
+      "name": "music/ex2/BGM_EX2_Field_Safe_01.scd",
+      "sha1": "c4c123a5cacfe345e528baab23a218d382bdf771"
+    },
+    "431": {
+      "index": 431,
+      "name": "music/ex2/BGM_EX2_Field_Safe_02.scd",
+      "sha1": "3ec0b7a8f4670a62816365337bf89980d223d809"
+    },
+    "432": {
+      "index": 432,
+      "name": "music/ex2/BGM_EX2_Field_Safe_03.scd",
+      "sha1": "439e8b7da199ba49cdeec47311c2ffb2dd308c1f"
+    },
+    "433": {
+      "index": 433,
+      "name": "music/ex2/BGM_EX2_Town_R_Day.scd",
+      "sha1": "91b7c265a9977ebf2a24cfc3177964eb0992b4b8"
+    },
+    "434": {
+      "index": 434,
+      "name": "music/ex2/BGM_EX2_Town_R_Night.scd",
+      "sha1": "5ba9deb31f7c79b55f7f3f44b99cc32315390486"
+    },
+    "435": {
+      "index": 435,
+      "name": "music/ex2/BGM_EX2_Field_G_Battle.scd",
+      "sha1": "a58f7a169f027d34881178726b3431aabfdf15f1"
+    },
+    "436": {
+      "index": 436,
+      "name": "music/ex2/BGM_EX2_Town_K_Day.scd",
+      "sha1": "8edbb6d944fc75c8e965ea305e633f4312e8acce"
+    },
+    "437": {
+      "index": 437,
+      "name": "music/ex2/BGM_EX2_Town_K_Night.scd",
+      "sha1": "426d16d17904ae199d9a162027c2e071d88e63b8"
+    },
+    "438": {
+      "index": 438,
+      "name": "music/ex2/BGM_EX2_Field_Kohgyoku_Battle.scd",
+      "sha1": "24c3bb15c33e996f0f92846485eb0a17bc7b02b6"
+    },
+    "439": {
+      "index": 439,
+      "name": "music/ex2/BGM_EX2_Field_G_Day.scd",
+      "sha1": "ec01f12fc0135167887968497fbc001e733f7f94"
+    },
+    "440": {
+      "index": 440,
+      "name": "music/ex2/BGM_EX2_Field_G_Night.scd",
+      "sha1": "2333ac79950ee88a7b2cb96e16f03a9f2d2052f0"
+    },
+    "441": {
+      "index": 441,
+      "name": "music/ex2/BGM_EX2_Field_G_Battle.scd",
+      "sha1": "a58f7a169f027d34881178726b3431aabfdf15f1"
+    },
+    "442": {
+      "index": 442,
+      "name": "music/ex2/BGM_EX2_Field_G_mountain_Day.scd",
+      "sha1": "25f9672901b137e3474027e21a4bc3f451e85e3c"
+    },
+    "443": {
+      "index": 443,
+      "name": "music/ex2/BGM_EX2_Field_G_mountain_Night.scd",
+      "sha1": "698aa21498ee5853f199d4cec125c500caca0986"
+    },
+    "444": {
+      "index": 444,
+      "name": "music/ex2/BGM_EX2_Field_G_mountain_Battle.scd",
+      "sha1": "d6565b09f57add5f02afe400f116da85be7a96a4"
+    },
+    "445": {
+      "index": 445,
+      "name": "music/ex2/BGM_EX2_Field_G_Lake_Day.scd",
+      "sha1": "3a1589945a8b2add3e07748aa98d745db5ec5b86"
+    },
+    "446": {
+      "index": 446,
+      "name": "music/ex2/BGM_EX2_Field_G_Lake_Night.scd",
+      "sha1": "5a717f5063c79ec924d7470d1909c340b09fee85"
+    },
+    "447": {
+      "index": 447,
+      "name": "music/ex2/BGM_EX2_Field_G_Lake_Battle.scd",
+      "sha1": "ce9bb7168b97537d5b6126dcbae6aabea3c1c37d"
+    },
+    "448": {
+      "index": 448,
+      "name": "music/ex2/BGM_EX2_Field_Kohgyoku_Day.scd",
+      "sha1": "1668acf714847598bd732a647ac27395a38ecbf0"
+    },
+    "449": {
+      "index": 449,
+      "name": "music/ex2/BGM_EX2_Field_Kohgyoku_Night.scd",
+      "sha1": "2914a777596c5c001b43da410caa72aaab70de59"
+    },
+    "450": {
+      "index": 450,
+      "name": "music/ex2/BGM_EX2_Field_Kohgyoku_Battle.scd",
+      "sha1": "24c3bb15c33e996f0f92846485eb0a17bc7b02b6"
+    },
+    "451": {
+      "index": 451,
+      "name": "music/ex2/BGM_EX2_Field_Yansa_Day.scd",
+      "sha1": "f4b4efccc5ae1dd4de0a01a2ec4848ebe588abe4"
+    },
+    "452": {
+      "index": 452,
+      "name": "music/ex2/BGM_EX2_Field_Yansa_Night.scd",
+      "sha1": "71d3ff67b8f9e3644e52fd7dc4da5d19226bc080"
+    },
+    "453": {
+      "index": 453,
+      "name": "music/ex2/BGM_EX2_Field_Yansa_Battle.scd",
+      "sha1": "06811c485f82219c2d07b8e2346e6eb1be24ec20"
+    },
+    "454": {
+      "index": 454,
+      "name": "music/ex2/BGM_EX2_Field_A_Day.scd",
+      "sha1": "701f95d2ca4cc6481792cade57710f8c808e73a2"
+    },
+    "455": {
+      "index": 455,
+      "name": "music/ex2/BGM_EX2_Field_A_Night.scd",
+      "sha1": "31212750dccc7a5edf153f40541c274d4779d253"
+    },
+    "456": {
+      "index": 456,
+      "name": "music/ex2/BGM_EX2_Field_A_Battle.scd",
+      "sha1": "24786348a5cc4e625a7f2d0804fe5148c9562b0a"
+    },
+    "457": {
+      "index": 457,
+      "name": "music/ex2/BGM_EX2_Event_01.scd",
+      "sha1": "9556b03176d2d3438e6bda82238d184e398b137a"
+    },
+    "458": {
+      "index": 458,
+      "name": "music/ex2/BGM_EX2_Event_02.scd",
+      "sha1": "cc7351e0c124d85059ed80772de7e1151b1a76dd"
+    },
+    "459": {
+      "index": 459,
+      "name": "music/ex2/BGM_EX2_Event_03.scd",
+      "sha1": "a188c297cabec92ef0fcad0b90e6ea4e3886ad00"
+    },
+    "460": {
+      "index": 460,
+      "name": "music/ex2/BGM_EX2_Event_04.scd",
+      "sha1": "128e689dbe96ccb7ad3957e90bcf05c32f651085"
+    },
+    "461": {
+      "index": 461,
+      "name": "music/ex2/BGM_EX2_Event_05.scd",
+      "sha1": "3e33f5fa2b543e8e621bb6437ac59d16929708ec"
+    },
+    "462": {
+      "index": 462,
+      "name": "music/ex2/BGM_EX2_Event_06.scd",
+      "sha1": "db99d128ee05f68e8283f7e7f4c102e39b9e046e"
+    },
+    "463": {
+      "index": 463,
+      "name": "music/ex2/BGM_EX2_Event_09.scd",
+      "sha1": "74449385196b8c6c6c103cde37a823aaf6e18122"
+    },
+    "464": {
+      "index": 464,
+      "name": "music/ex2/BGM_EX2_Event_07.scd",
+      "sha1": "8c9275f69478260f99e3fd9b226d5c8de872c821"
+    },
+    "465": {
+      "index": 465,
+      "name": "music/ex2/BGM_EX2_Event_08.scd",
+      "sha1": "10e844f9e40f7d916c1e7dff339e87eac293ce2b"
+    },
+    "466": {
+      "index": 466,
+      "name": "music/ex2/BGM_EX2_Ban_01.scd",
+      "sha1": "e1e82b470675b318de2712024d4f88acedf8d6e5"
+    },
+    "467": {
+      "index": 467,
+      "name": "music/ex2/BGM_EX2_Ban_02.scd",
+      "sha1": "8258dd4fb964810e77ce1d0f190fe2f9c7a0c66d"
+    },
+    "468": {
+      "index": 468,
+      "name": "music/ex2/BGM_EX2_Ban_03_1.scd",
+      "sha1": "ec88f07689ece5977163b98ec4bd9cf2e9cada18"
+    },
+    "469": {
+      "index": 469,
+      "name": "music/ex2/BGM_EX2_Ban_03_2.scd",
+      "sha1": "2b84369958d771b848a1aaf188695c4aa83a7c36"
+    },
+    "470": {
+      "index": 470,
+      "name": "music/ex2/BGM_EX2_Boss_Battle_01.scd",
+      "sha1": "3b0b5b88d992c5990577b8734f1bb504e279da5f"
+    },
+    "471": {
+      "index": 471,
+      "name": "music/ex2/BGM_EX2_Dan_D01.scd",
+      "sha1": "6101e993801faaa48f2ba806f20e618a926ddfaf"
+    },
+    "472": {
+      "index": 472,
+      "name": "music/ex2/BGM_EX2_Dan_D02.scd",
+      "sha1": "7a29ccc3cf212401f7ef88aa18f57132b2df1fd6"
+    },
+    "473": {
+      "index": 473,
+      "name": "music/ex2/BGM_EX2_Dan_D03.scd",
+      "sha1": "5b68e9b3f6b25be1039b0d15b7f48a817c50a781"
+    },
+    "474": {
+      "index": 474,
+      "name": "music/ex2/BGM_EX2_Dan_D04.scd",
+      "sha1": "a9cedf06db3c11c1e3fda020a1cba483762810ff"
+    },
+    "475": {
+      "index": 475,
+      "name": "music/ex2/BGM_EX2_Dan_D05.scd",
+      "sha1": "fa36c2d2085f8e729bd2487645fc0e96dd16ca9b"
+    },
+    "476": {
+      "index": 476,
+      "name": "music/ex2/BGM_EX2_Dan_D06.scd",
+      "sha1": "c4159cfb1af1dc1502e2f86ec8e9bb679fc11824"
+    },
+    "477": {
+      "index": 477,
+      "name": "music/ex2/BGM_EX2_Dan_D07.scd",
+      "sha1": "800922fe71e6fa3c793217101fa9da0dcdca49bc"
+    },
+    "478": {
+      "index": 478,
+      "name": "music/ex2/BGM_EX2_Dan_D08.scd",
+      "sha1": "264ed337ad183a46a902bd73bb16e6a5894efc16"
+    },
+    "479": {
+      "index": 479,
+      "name": "music/ex2/BGM_EX2_Omega_01.scd",
+      "sha1": "2b9f46d3a50c0b9f178ae6de990a81fe04847a1c"
+    },
+    "480": {
+      "index": 480,
+      "name": "music/ex2/BGM_EX2_Omega_02.scd",
+      "sha1": "05c769acab73e4be8de706499c028a38eef489fb"
+    },
+    "481": {
+      "index": 481,
+      "name": "music/ex2/BGM_EX2_Omega_03.scd",
+      "sha1": "033ff030b41288bcfb03990d7dc0c65639cd4892"
+    },
+    "482": {
+      "index": 482,
+      "name": "music/ex2/BGM_EX2_Omega_04.scd",
+      "sha1": "74af66364298658bf20643e358b0321ec8d2c8f6"
+    },
+    "483": {
+      "index": 483,
+      "name": "music/ex2/BGM_EX2_Mount01.scd",
+      "sha1": "886496cf6084b62e71ef0a607418752a118cfed9"
+    },
+    "484": {
+      "index": 484,
+      "name": "music/ex2/BGM_EX2_Event_10.scd",
+      "sha1": "4a785ea58d4136308b851ee305404ada179dfa3e"
+    },
+    "485": {
+      "index": 485,
+      "name": "music/ex2/BGM_EX2_Event_11.scd",
+      "sha1": "9c92abbb017e212e40ac2a914297e14c39d1dd91"
+    },
+    "486": {
+      "index": 486,
+      "name": "music/ex2/BGM_EX2_Event_PRELUDE.scd",
+      "sha1": "08c7bf6237646369dc2e82176a499d0becb847a4"
+    },
+    "487": {
+      "index": 487,
+      "name": "music/ex2/BGM_EX2_Event_END.scd",
+      "sha1": "6bc31ae9a8ab1f8b0fc624127c3cde4c239e4d31"
+    },
+    "488": {
+      "index": 488,
+      "name": "music/ex2/BGM_EX2_BanFort_Koujin_Bad.scd",
+      "sha1": "72de19cd422118a145e4ad00d13805aea45a7176"
+    },
+    "489": {
+      "index": 489,
+      "name": "music/ex2/BGM_EX2_Event_12.scd",
+      "sha1": "20881a31601a770c567f19dc11622ab3d7b8d72b"
+    },
+    "490": {
+      "index": 490,
+      "name": "music/ex2/BGM_EX2_Boss_Battle_02.scd",
+      "sha1": "393e9078cdad6bb98599f154793103b7cdc90490"
+    },
+    "491": {
+      "index": 491,
+      "name": "music/ex2/BGM_EX2_Ban_01_2.scd",
+      "sha1": "90a69d703270c9971fe6e8ab1f934cae0f735644"
+    },
+    "492": {
+      "index": 492,
+      "name": "music/ex2/BGM_EX2_Ban_01_3.scd",
+      "sha1": "d198596f0faacbd70712844f43b7a286c7348013"
+    },
+    "493": {
+      "index": 493,
+      "name": "music/ffxiv/BGM_Ride_Susano.scd",
+      "sha1": "5f7f9f8d7baec87feb6e78610c63d74eecb8dda1"
+    },
+    "494": {
+      "index": 494,
+      "name": "music/ffxiv/BGM_Ride_Lakshmi.scd",
+      "sha1": "102f859b4666cdd00f5f5ec80611aa593de256da"
+    },
+    "495": {
+      "index": 495,
+      "name": "music/ex2/BGM_EX2_Town_R_Sad.scd",
+      "sha1": "2b036758841e9e755646a6175dfdc7fa078a9a44"
+    },
+    "496": {
+      "index": 496,
+      "name": "music/ffxiv/BGM_Season_Anniversary.scd",
+      "sha1": "3886841015f01ca6fd3e0e259612e0d4a1e9001a"
+    },
+    "497": {
+      "index": 497,
+      "name": "music/ex2/BGM_EX2_Event_13.scd",
+      "sha1": "15d3952a35e7a63659c18693334e24e8a9dfb646"
+    },
+    "498": {
+      "index": 498,
+      "name": "music/ex2/BGM_EX2_BanFort_Kojin_Good.scd",
+      "sha1": "5768be43546714fdeeef9ebb18cfca5287239b74"
+    },
+    "499": {
+      "index": 499,
+      "name": "music/ex2/BGM_EX2_Ban_04.scd",
+      "sha1": "d636788c10e4f11015944560a14f4ee328cf5090"
+    },
+    "500": {
+      "index": 500,
+      "name": "music/ffxiv/BGM_PvP_Mogi_01.scd",
+      "sha1": "9b05e34c0243bf4195630b33b1c2cb722846c7c3"
+    },
+    "501": {
+      "index": 501,
+      "name": "music/ffxiv/BGM_PvP_Mogi_02.scd",
+      "sha1": "a3fa991f35d2c5c091ef040ebc2c2c5af0f4c0f8"
+    },
+    "502": {
+      "index": 502,
+      "name": "music/ffxiv/BGM_PvP_Mogi_03.scd",
+      "sha1": "7b5b9218d6f4d7daabdbe8909927d0b542690d00"
+    },
+    "503": {
+      "index": 503,
+      "name": "music/ffxiv/BGM_PvP_Mogi_04.scd",
+      "sha1": "83b5deea5e6c134ec3b624985ad855253aec4a0d"
+    },
+    "504": {
+      "index": 504,
+      "name": "music/ex2/BGM_EX2_Dan_D09.scd",
+      "sha1": "3bab7230c19e421fe9564f515759fbfbb96e92be"
+    },
+    "505": {
+      "index": 505,
+      "name": "music/ffxiv/BGM_Ride_Shinryu.scd",
+      "sha1": "88145e93c1abf37422d3145c89500e13af164087"
+    },
+    "506": {
+      "index": 506,
+      "name": "music/ex2/BGM_EX2_Rti_01.scd",
+      "sha1": "54d504238e046098332f0493b0d26b32088ab06a"
+    },
+    "507": {
+      "index": 507,
+      "name": "music/ex2/BGM_EX2_Rti_02.scd",
+      "sha1": "cfd92f18c725819e0bae4fbb3f64fe3f3f3072f5"
+    },
+    "508": {
+      "index": 508,
+      "name": "music/ex2/BGM_EX2_Rti_03.scd",
+      "sha1": "193d82dd199f16a054580dd14691eb1a97827073"
+    },
+    "509": {
+      "index": 509,
+      "name": "music/ex2/BGM_EX2_Rti_04.scd",
+      "sha1": "e648a88d5f433bf5c7bce4ac8e2e98de96609f68"
+    },
+    "510": {
+      "index": 510,
+      "name": "music/ex2/BGM_EX2_Rti_05.scd",
+      "sha1": "556e9264c6f9fce2e733420f8f7811c26be79942"
+    },
+    "511": {
+      "index": 511,
+      "name": "music/ex2/BGM_EX2_Rti_06.scd",
+      "sha1": "17b73804ac8036882b20895a7c848dfcc2530ae2"
+    },
+    "512": {
+      "index": 512,
+      "name": "music/ex2/BGM_EX2_Rti_07.scd",
+      "sha1": "973da91e64e709fa2ffd5f3d2aad692353c1fc33"
+    },
+    "513": {
+      "index": 513,
+      "name": "music/ex2/BGM_EX2_Rti_08.scd",
+      "sha1": "af4650ba7e62d650dd0635b6f5ce45aa408eb8b6"
+    },
+    "514": {
+      "index": 514,
+      "name": "music/ex2/BGM_EX2_Rti_09.scd",
+      "sha1": "33c13b940febf2c9db12233710c340af2c8de150"
+    },
+    "515": {
+      "index": 515,
+      "name": "music/ex2/BGM_EX2_Rti_10.scd",
+      "sha1": "ed5a06fbf3c8e87e803fae30c108f2fe21bdc998"
+    },
+    "516": {
+      "index": 516,
+      "name": "music/ffxiv/BGM_Season_Xmas2017.scd",
+      "sha1": "3dedc65d8a7dc1bfd5092a42fd1044381619096a"
+    },
+    "517": {
+      "index": 517,
+      "name": "music/ex2/BGM_EX2_Ban_04pre.scd",
+      "sha1": "16ae2975132239df78aee6a6ec7f582ff868e15f"
+    },
+    "518": {
+      "index": 518,
+      "name": "music/ex2/BGM_EX2_BanFort_Ananta_Good.scd",
+      "sha1": "75ffbaadcfe55bad3e0ca96f68faf9071281f04a"
+    },
+    "519": {
+      "index": 519,
+      "name": "music/ex2/BGM_EX2_Field_Iroha.scd",
+      "sha1": "fa545f16ecafd6dfbd6eb38c28fa70e923abe4ff"
+    },
+    "520": {
+      "index": 520,
+      "name": "music/ffxiv/BGM_Season_Princess.scd",
+      "sha1": "f396fa42684a437a0e9ece2dae530ee13e883c9f"
+    },
+    "521": {
+      "index": 521,
+      "name": "music/ex2/BGM_EX2_Ban_11.scd",
+      "sha1": "d37b61c6f09db8784d2b1dd13879fdcac0bbacdd"
+    },
+    "522": {
+      "index": 522,
+      "name": "music/ex2/BGM_EX2_Ban_12.scd",
+      "sha1": "0deef2f6ca51371dca6c8b1f7e977e24a7f4b698"
+    },
+    "523": {
+      "index": 523,
+      "name": "music/ex2/BGM_EX2_Ban_13.scd",
+      "sha1": "8153b584311a918e6fd4d0fee9dec859b8725c3b"
+    },
+    "524": {
+      "index": 524,
+      "name": "music/ex2/BGM_EX2_EU_Field.scd",
+      "sha1": "9f369cc92c806edbdb0b50e0c5e9da9d477babab"
+    },
+    "525": {
+      "index": 525,
+      "name": "music/ex2/BGM_EX2_EU_NM.scd",
+      "sha1": "34df892ab1e43c8c39d7c2ff080b437f5d26fc02"
+    },
+    "526": {
+      "index": 526,
+      "name": "music/ex2/BGM_EX2_Dan_D10.scd",
+      "sha1": "5a8dbdd99255b3beb6ec07f90a6dc32f02e86bce"
+    },
+    "527": {
+      "index": 527,
+      "name": "music/ex2/BGM_EX2_Dan_D11.scd",
+      "sha1": "39548a4f466d555b883678ada1217ef9874cd01d"
+    },
+    "528": {
+      "index": 528,
+      "name": "music/ex2/BGM_EX2_Sigma_01.scd",
+      "sha1": "9e9f216b477cb5787fe261cbe840a167071b9a73"
+    },
+    "529": {
+      "index": 529,
+      "name": "music/ex2/BGM_EX2_Sigma_02.scd",
+      "sha1": "edec47b37f81e9d219ccde785029528de7ed872d"
+    },
+    "530": {
+      "index": 530,
+      "name": "music/ex2/BGM_EX2_Sigma_03.scd",
+      "sha1": "16ea617f0c62accde42304bfc060ba3001bdab09"
+    },
+    "531": {
+      "index": 531,
+      "name": "music/ex2/BGM_EX2_Sigma_04.scd",
+      "sha1": "62eeb2142bab05765b07a463959e0e67ea18a0f6"
+    },
+    "532": {
+      "index": 532,
+      "name": "music/ex2/BGM_EX2_Sigma_05.scd",
+      "sha1": "b1c11556b6ecda46dca27d48e9e22fc669a54cfc"
+    },
+    "533": {
+      "index": 533,
+      "name": "music/ex2/BGM_EX2_Sigma_06.scd",
+      "sha1": "833da784e8de8d38b98ac317bea46fabf2a8024d"
+    },
+    "534": {
+      "index": 534,
+      "name": "music/ffxiv/BGM_Ride_Omega.scd",
+      "sha1": "91e2b7f4f052c79944a02954f6d9686cbda2132d"
+    },
+    "535": {
+      "index": 535,
+      "name": "music/ffxiv/BGM_Ride_Sigma.scd",
+      "sha1": "bd1fc68501d45df188ad3b3e380ee81ce0193c33"
+    },
+    "536": {
+      "index": 536,
+      "name": "music/ffxiv/BGM_Ride_Byakko.scd",
+      "sha1": "de466b3b0834f1c33994485baecaaef4cebe8212"
+    },
+    "537": {
+      "index": 537,
+      "name": "music/ffxiv/BGM_Field_Safe2.scd",
+      "sha1": "df27763f6fe5404706eb9d2c4e52fd73c6a269c3"
+    },
+    "538": {
+      "index": 538,
+      "name": "music/ffxiv/BGM_Minigame_Egghunt.scd",
+      "sha1": "62a313e7a9cd3e6ffcca60c2de762068b1fa2c16"
+    },
+    "539": {
+      "index": 539,
+      "name": "music/ffxiv/BGM_Season_VTID.scd",
+      "sha1": "0a8856eb69fea66759dbcc6c92e672c34112cabf"
+    },
+    "540": {
+      "index": 540,
+      "name": "music/ex2/BGM_EX2_BanFort_Namazuo_Good.scd",
+      "sha1": "cf25b0a60701e9da6563a7191dae70ea79d57310"
+    },
+    "541": {
+      "index": 541,
+      "name": "music/ex2/BGM_EX2_Ban_16.scd",
+      "sha1": "f6e5eab17c5db03d2673cc571bc0630c60f859ef"
+    },
+    "542": {
+      "index": 542,
+      "name": "music/ex2/BGM_EX2_Ban_17.scd",
+      "sha1": "fd3ceb0220c4d70489907c0122ea769890ebd3da"
+    },
+    "543": {
+      "index": 543,
+      "name": "music/ex2/BGM_EX2_Ban_18.scd",
+      "sha1": "d62b9b9ad123fc747042e553510dc17e5d1a316d"
+    },
+    "544": {
+      "index": 544,
+      "name": "music/ex2/BGM_EX2_Ban_19.scd",
+      "sha1": "6c7f0414d614647fe195ca92ce10bd6a298b6b87"
+    },
+    "545": {
+      "index": 545,
+      "name": "music/ex2/BGM_EX2_Ban_20.scd",
+      "sha1": "78362c5f199487d7066c7efe2a9f9aeae698c813"
+    },
+    "546": {
+      "index": 546,
+      "name": "music/ex2/BGM_EX2_Ban_21.scd",
+      "sha1": "754eb3079e5c9804025572e5cded828cf9c986e8"
+    },
+    "547": {
+      "index": 547,
+      "name": "music/ex2/BGM_EX2_Ban_23.scd",
+      "sha1": "4484e4770f043dbb844f205b6f10bea5bde36d7d"
+    },
+    "548": {
+      "index": 548,
+      "name": "music/ex2/BGM_EX2_Ban_14.scd",
+      "sha1": "9e8fff0c478fce313fd004b5bc5b942c243a8492"
+    },
+    "549": {
+      "index": 549,
+      "name": "music/ex2/BGM_EX2_Ban_15.scd",
+      "sha1": "a92073d0dd6f53ac7013acc986a6fc28ea06acf4"
+    },
+    "550": {
+      "index": 550,
+      "name": "music/ex2/BGM_EX2_Event_14.scd",
+      "sha1": "9a1783670cfbb694bc4f8b9d15cf3f87fe299b84"
+    },
+    "551": {
+      "index": 551,
+      "name": "music/ex2/BGM_EX2_Dan_D12.scd",
+      "sha1": "b5f3ee35eec79041cd87f9bd2bbd86c6eccdda0c"
+    },
+    "552": {
+      "index": 552,
+      "name": "music/ffxiv/BGM_Ride_TK.scd",
+      "sha1": "68f36e7ea04803a41e389db361617b4f39ca0c8b"
+    },
+    "553": {
+      "index": 553,
+      "name": "music/ex2/BGM_EX2_Rti_11.scd",
+      "sha1": "1178e9738b37ec1a9a455f77f2577b67dc472a82"
+    },
+    "554": {
+      "index": 554,
+      "name": "music/ex2/BGM_EX2_Rti_12.scd",
+      "sha1": "f2a0967572625b9ccc6dbf486bb5d94b631cdbc0"
+    },
+    "555": {
+      "index": 555,
+      "name": "music/ex2/BGM_EX2_Rti_13.scd",
+      "sha1": "3ec43946350cbc9e1ebb7cfdaa9bf5ff728623d8"
+    },
+    "556": {
+      "index": 556,
+      "name": "music/ex2/BGM_EX2_Rti_14.scd",
+      "sha1": "c3429f9c945a0ec52bb162d4a7a49ae9bb6e50a4"
+    },
+    "557": {
+      "index": 557,
+      "name": "music/ex2/BGM_EX2_Rti_15.scd",
+      "sha1": "b64d149e912e4b4b240010ac247eacdcc5b7504a"
+    },
+    "558": {
+      "index": 558,
+      "name": "music/ex2/BGM_EX2_Rti_16.scd",
+      "sha1": "2daa160f40cdfe9ea86d83dfe23370e80f707197"
+    },
+    "559": {
+      "index": 559,
+      "name": "music/ex2/BGM_EX2_Rti_17.scd",
+      "sha1": "606f6e1121b119dc497d9e9bc55fd3575c181200"
+    },
+    "560": {
+      "index": 560,
+      "name": "music/ex2/BGM_EX2_Rti_18.scd",
+      "sha1": "45f6ec265fa580a6f06ea18e9ee93bb6e05bbe2e"
+    },
+    "561": {
+      "index": 561,
+      "name": "music/ex2/BGM_EX2_Event_15.scd",
+      "sha1": "99c57b4ae719f2bb1b962c7e5d3a16798e25bf46"
+    },
+    "562": {
+      "index": 562,
+      "name": "music/ex2/BGM_EX2_Event_16.scd",
+      "sha1": "70d79b5dd1ebc74f0a3f9f9671a3506f5f33fad6"
+    },
+    "563": {
+      "index": 563,
+      "name": "music/ex2/BGM_EX2_Event_17.scd",
+      "sha1": "7f6af2be4d6444bddde9f70162e40482334df0fd"
+    },
+    "564": {
+      "index": 564,
+      "name": "music/ffxiv/BGM_Ride_NIKU.scd",
+      "sha1": "d203fadc2ab681788f1602fc73a6db3b0f17260f"
+    },
+    "565": {
+      "index": 565,
+      "name": "music/ffxiv/BGM_Ride_Abare.scd",
+      "sha1": "b82c7e420c1972a698f5b572fb9cf610a16bf79a"
+    },
+    "566": {
+      "index": 566,
+      "name": "music/ffxiv/BGM_Town_K_Day.scd",
+      "sha1": "f201a84a20c403e852e3f5e978129c2b1297b3c5"
+    },
+    "567": {
+      "index": 567,
+      "name": "music/ffxiv/BGM_Town_K_Night.scd",
+      "sha1": "171692ad527afe9938e9b44e04c99ccde7bc6630"
+    },
+    "568": {
+      "index": 568,
+      "name": "music/ffxiv/BGM_Field_G_Battle.scd",
+      "sha1": "c4ba21a76300e6460ad82b63b9bb9910ca62f3bd"
+    },
+    "569": {
+      "index": 569,
+      "name": "music/ex2/BGM_EX2_Ban_22.scd",
+      "sha1": "4df9d52d3a54d16b5bc54b055879541e5cd9346f"
+    },
+    "570": {
+      "index": 570,
+      "name": "music/ffxiv/BGM_Ride_Mikoshi.scd",
+      "sha1": "7baca50c5f3637cf6b06c7277c26a01a2f751368"
+    },
+    "571": {
+      "index": 571,
+      "name": "music/ex2/BGM_EX2_Event_18.scd",
+      "sha1": "8ae5cbffd40c73c3b4de05465a2242db754d5695"
+    },
+    "572": {
+      "index": 572,
+      "name": "music/ex2/BGM_EX2_Event_24.scd",
+      "sha1": "03d945e02d8f0290bacf67ee8016065a1aad4f26"
+    },
+    "573": {
+      "index": 573,
+      "name": "music/ex2/BGM_EX2_Event_31.scd",
+      "sha1": "6d6dcc34d8180f685e3b1201b46ffabba83f1ca9"
+    },
+    "574": {
+      "index": 574,
+      "name": "music/ex2/BGM_EX2_Event_32.scd",
+      "sha1": "2a095f8799d7b117d1e31b6b5050479c2d66d2a5"
+    },
+    "575": {
+      "index": 575,
+      "name": "music/ex2/BGM_EX2_Event_33.scd",
+      "sha1": "faba54d09d0a07e9d0639bc4c4eaf427648702d6"
+    },
+    "576": {
+      "index": 576,
+      "name": "music/ex2/BGM_EX2_Event_34.scd",
+      "sha1": "2bfc85e8552ea809f5da589e03050c6fdab29808"
+    },
+    "577": {
+      "index": 577,
+      "name": "music/ex2/BGM_EX2_Event_35.scd",
+      "sha1": "cbc08e7245fc6136c4d4cd0a7ae62bf4882e0408"
+    },
+    "578": {
+      "index": 578,
+      "name": "music/ex2/BGM_EX2_Event_36.scd",
+      "sha1": "e8d4e28a9cad1c359f0632ae699b4ba937e36dfb"
+    },
+    "579": {
+      "index": 579,
+      "name": "music/ex2/BGM_EX2_Event_37.scd",
+      "sha1": "a0c08365946355c6ce7b0c7cc87ab2b0ff9e6ef9"
+    }
+  }
+}
