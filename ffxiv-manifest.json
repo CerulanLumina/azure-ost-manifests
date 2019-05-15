@@ -2874,6 +2874,76 @@
       "index": 579,
       "name": "music/ex2/BGM_EX2_Event_37.scd",
       "sha1": "a0c08365946355c6ce7b0c7cc87ab2b0ff9e6ef9"
+    },
+    "580": {
+      "index": 580,
+      "name": "music/ffxiv/BGM_Season_XmasCho.scd",
+      "sha1": "bbf11a447096103f6b786f58f8ee7f903fbd743b"
+    },
+    "581": {
+      "index": 581,
+      "name": "music/ex2/BGM_EX2_Ban_24.scd",
+      "sha1": "3e12f34460e2321baaecd142cd4f0af716cc7854"
+    },
+    "582": {
+      "index": 582,
+      "name": "music/ex2/BGM_EX2_Ban_25.scd",
+      "sha1": "84a36265d877f5220cab55eb4bab88e5d3c40093"
+    },
+    "583": {
+      "index": 583,
+      "name": "music/ex2/BGM_EX2_Dan_D13.scd",
+      "sha1": "900cef22090d7aac0883e6f1ac342113535100a6"
+    },
+    "584": {
+      "index": 584,
+      "name": "music/ex2/BGM_EX2_Dan_D14.scd",
+      "sha1": "a5575ca7a7d5e9eae0ef8a79d54c8b9f07468457"
+    },
+    "585": {
+      "index": 585,
+      "name": "music/ex2/BGM_EX2_alpha_01.scd",
+      "sha1": "0824f0209cd114d54eda41d7beb1c30ec8b33a6b"
+    },
+    "586": {
+      "index": 586,
+      "name": "music/ex2/BGM_EX2_alpha_02.scd",
+      "sha1": "d08e070ae7f57cd1462a49867d1b91e597dfc377"
+    },
+    "587": {
+      "index": 587,
+      "name": "music/ex2/BGM_EX2_alpha_03.scd",
+      "sha1": "9b28c7fcc1838eb2d652aa7e1501b96fbc87d487"
+    },
+    "588": {
+      "index": 588,
+      "name": "music/ffxiv/BGM_Ride_Suzaku.scd",
+      "sha1": "fd707cbeb5fe7500556b04714fb04e765a2939a7"
+    },
+    "589": {
+      "index": 589,
+      "name": "music/ffxiv/BGM_Ride_Alpha.scd",
+      "sha1": "a3dd8e2e5209fda88ca7eea2c1a6d2e8d8b3a023"
+    },
+    "590": {
+      "index": 590,
+      "name": "music/ex2/BGM_EX2_Event_38.scd",
+      "sha1": "f904b7c4ee5f246ad31140a79973b56da718f7a9"
+    },
+    "591": {
+      "index": 591,
+      "name": "music/ex2/BGM_EX2_alpha_04.scd",
+      "sha1": "c6e1d1f0534b51b5553cfcab45122dd9548e40b2"
+    },
+    "592": {
+      "index": 592,
+      "name": "music/ffxiv/BGM_Ride_Bike.scd",
+      "sha1": "c78e56be879bf7cd50fb3261a93924ef39be6a66"
+    },
+    "593": {
+      "index": 593,
+      "name": "music/ex2/BGM_EX2_Uzune2.scd",
+      "sha1": "d3d26e4f713160930031959c5ba664430f5f9062"
     }
   }
 }
